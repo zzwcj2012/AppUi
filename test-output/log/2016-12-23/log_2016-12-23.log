@@ -1,0 +1,33 @@
+[2016-12-23 18:02:16,046] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-23 18:02:16,052] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-23 18:02:16,056] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-23 18:02:26,057] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-23 18:02:37,005] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:38,430] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:38,991] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:39,550] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:40,163] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:40,756] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:41,354] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:42,085] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:43,051] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:44,559] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:45,082] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:45,602] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:46,125] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:46,657] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:47,177] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:47,698] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:48,218] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:48,739] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:49,262] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:49,782] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:50,301] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:50,823] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:51,347] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:51,866] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:52,387] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:53,003] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2016-12-23 18:02:54,030] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2016-12-23 18:02:54,031] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2016-12-23 18:02:55,040] ERROR org.webdriver.patatiumappui.utils.TestListener 0

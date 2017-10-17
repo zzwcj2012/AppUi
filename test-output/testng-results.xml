@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78200" started-at="2017-09-12T10:26:24Z" finished-at="2017-09-12T10:27:42Z">
+    <groups>
+    </groups>
+    <test name="测试执行" duration-ms="78200" started-at="2017-09-12T10:26:24Z" finished-at="2017-09-12T10:27:42Z">
+      <class name="ExcuteTesting">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcuteTesting@69b794e2]" name="setup" is-config="true" duration-ms="22123" started-at="2017-09-12T18:26:24Z" finished-at="2017-09-12T18:26:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AndroidDriver]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[127.0.0.1:4723]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tongcheng.apk]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[127.0.0.1:62001]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.tongcheng.android]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[com.tongcheng.android.LoadingActivity]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:ExcuteTesting@69b794e2]" name="login" duration-ms="54395" started-at="2017-09-12T18:26:46Z" description="测试执行" finished-at="2017-09-12T18:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ExcuteTesting@69b794e2]" name="tearDown" is-config="true" duration-ms="1675" started-at="2017-09-12T18:27:40Z" finished-at="2017-09-12T18:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ExcuteTesting -->
+    </test> <!-- 测试执行 -->
+  </suite> <!-- Suite -->
+</testng-results>

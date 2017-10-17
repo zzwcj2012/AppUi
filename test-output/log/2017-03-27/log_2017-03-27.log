@@ -1,0 +1,13 @@
+[2017-03-27 16:50:48,033] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-27 16:50:48,052] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-27 16:50:48,053] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-27 16:50:48,060] ERROR org.appui.utils.TestListener 0
+[2017-03-27 16:51:13,037] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-27 16:51:13,284] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-03-27 16:51:13,287] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-03-27 16:51:23,288] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-03-27 16:51:55,472] ERROR org.appui.utils.TestBaseCase appium环境配置失败
+[2017-03-27 16:51:55,478] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-03-27 16:52:04,496] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-27 16:52:04,498] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-27 16:52:04,509] ERROR org.appui.utils.TestListener 0

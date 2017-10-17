@@ -1,0 +1,119 @@
+[2017-01-03 17:55:32,147] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-03 17:55:32,154] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-03 17:55:32,159] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-03 17:55:42,159] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-03 17:55:57,790] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 17:55:57,797] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 17:55:57,809] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-03 17:56:02,885] INFO  org.appui.utils.TestListener 测试用例: 滑动引导页--passed
+[2017-01-03 17:56:02,885] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 17:56:02,887] INFO  org.appui.utils.TestListener 测试用例: 滑动引导页--passed
+[2017-01-03 17:56:02,887] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 17:56:04,475] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-03 17:56:04,475] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-03 17:58:48,946] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-03 17:58:48,956] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-03 17:58:48,960] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-03 17:58:58,961] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-03 17:59:14,402] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 17:59:14,408] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 17:59:14,420] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-03 17:59:19,492] ERROR org.appui.pageObject.GuildPage 没有找到引导页1页面元素
+[2017-01-03 17:59:19,510] ERROR org.appui.utils.TestListener 0
+[2017-01-03 17:59:19,970] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\滑动引导页0.jpg
+[2017-01-03 17:59:19,972] ERROR org.appui.utils.TestListener 测试用例: 滑动引导页--failed
+[2017-01-03 17:59:19,972] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 17:59:19,976] ERROR org.appui.utils.TestListener 0
+[2017-01-03 17:59:20,365] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\滑动引导页0.jpg
+[2017-01-03 17:59:20,366] ERROR org.appui.utils.TestListener 测试用例: 滑动引导页--failed
+[2017-01-03 17:59:20,366] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 17:59:22,047] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-03 17:59:22,047] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-03 18:19:23,960] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-03 18:19:23,967] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-03 18:19:23,972] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-03 18:19:33,972] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-03 18:19:49,540] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:19:49,549] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:19:49,558] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-03 18:19:54,648] ERROR org.appui.pageObject.GuildPage 没有找到引导页1页面元素
+[2017-01-03 18:19:54,661] ERROR org.appui.utils.TestListener 0
+[2017-01-03 18:19:55,092] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\滑动引导页0.jpg
+[2017-01-03 18:19:55,094] ERROR org.appui.utils.TestListener 测试用例: 滑动引导页--failed
+[2017-01-03 18:19:55,094] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:19:55,098] ERROR org.appui.utils.TestListener 0
+[2017-01-03 18:19:55,512] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\滑动引导页0.jpg
+[2017-01-03 18:19:55,514] ERROR org.appui.utils.TestListener 测试用例: 滑动引导页--failed
+[2017-01-03 18:19:55,514] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:19:57,187] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-03 18:19:57,187] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-03 18:24:26,261] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-03 18:24:26,267] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-03 18:24:26,272] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-03 18:24:36,272] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-03 18:24:46,821] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:24:46,828] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:24:46,922] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-03 18:24:52,078] ERROR org.appui.pageObject.GuildPage 没有找到引导页1页面元素
+[2017-01-03 18:24:52,090] ERROR org.appui.utils.TestListener 0
+[2017-01-03 18:24:53,952] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\滑动引导页0.jpg
+[2017-01-03 18:24:53,953] ERROR org.appui.utils.TestListener 测试用例: 滑动引导页--failed
+[2017-01-03 18:24:53,954] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:24:53,961] ERROR org.appui.utils.TestListener 0
+[2017-01-03 18:24:54,356] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\滑动引导页0.jpg
+[2017-01-03 18:24:54,358] ERROR org.appui.utils.TestListener 测试用例: 滑动引导页--failed
+[2017-01-03 18:24:54,358] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:24:56,206] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-03 18:24:56,206] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-03 18:30:25,636] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-03 18:30:25,643] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-03 18:30:25,648] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-03 18:30:35,648] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-03 18:30:46,653] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:30:46,657] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:30:46,742] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-03 18:30:52,185] INFO  org.appui.utils.TestListener 测试用例: 滑动引导页--passed
+[2017-01-03 18:30:52,185] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:30:52,187] INFO  org.appui.utils.TestListener 测试用例: 滑动引导页--passed
+[2017-01-03 18:30:52,187] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:30:54,894] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-03 18:30:54,895] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-03 18:32:45,740] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-03 18:32:45,746] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-03 18:32:45,750] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-03 18:32:55,751] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-03 18:33:06,534] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:33:06,538] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:33:06,630] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-03 18:33:11,811] INFO  org.appui.utils.TestListener 测试用例: 滑动引导页--passed
+[2017-01-03 18:33:11,812] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:33:11,814] INFO  org.appui.utils.TestListener 测试用例: 滑动引导页--passed
+[2017-01-03 18:33:11,814] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:33:14,630] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-03 18:33:14,631] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-03 18:57:48,077] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-03 18:57:48,090] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-03 18:57:48,097] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-03 18:57:58,097] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-03 18:58:08,783] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:58:08,787] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:58:08,876] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-03 18:58:14,106] INFO  org.appui.utils.TestListener 测试用例: 滑动引导页--passed
+[2017-01-03 18:58:14,107] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:58:14,111] INFO  org.appui.utils.TestListener 测试用例: 滑动引导页--passed
+[2017-01-03 18:58:14,112] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:58:16,947] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-03 18:58:16,947] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-03 18:58:29,340] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-03 18:58:29,358] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-03 18:58:29,362] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-03 18:58:39,362] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-03 18:58:50,285] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:58:50,289] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---start
+[2017-01-03 18:58:50,389] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-03 18:58:55,570] INFO  org.appui.utils.TestListener 测试用例: 滑动引导页--passed
+[2017-01-03 18:58:55,570] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:58:55,574] INFO  org.appui.utils.TestListener 测试用例: 滑动引导页--passed
+[2017-01-03 18:58:55,574] INFO  org.appui.utils.TestListener 测试用例:滑动引导页---end
+[2017-01-03 18:58:58,158] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-03 18:58:58,158] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------

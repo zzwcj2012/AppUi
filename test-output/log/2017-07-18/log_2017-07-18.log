@@ -1,0 +1,15 @@
+[2017-07-18 18:16:49,847] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-07-18 18:16:50,089] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-07-18 18:16:50,089] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-07-18 18:16:50,109] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-07-18 18:16:50,113] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-07-18 18:16:50,113] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-07-18 18:16:50,114] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-07-18 18:16:50,114] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-07-18 18:16:50,115] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-07-18 18:16:50,115] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-07-18 18:16:50,116] INFO  org.appui.utils.Executor name:立即体验
+[2017-07-18 18:16:50,116] INFO  org.appui.utils.Executor type:xpath
+[2017-07-18 18:16:50,116] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@27c20538

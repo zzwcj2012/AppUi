@@ -1,0 +1,104 @@
+[2017-08-14 13:25:47,070] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-14 13:25:47,099] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-14 13:25:47,139] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-14 13:25:47,336] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-14 13:25:47,368] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-14 13:25:49,494] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-14 13:25:49,526] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-14 13:25:49,566] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-14 13:25:49,760] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-14 13:25:49,768] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-14 13:25:57,369] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-14 13:25:59,769] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-14 13:26:00,150] ERROR org.appui.utils.TestBaseCase appium环境配置失败
+[2017-08-14 13:26:00,158] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-14 13:26:00,162] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-14 13:26:00,162] INFO  org.appui.utils.ElementAction 等待15秒
+[2017-08-14 13:26:15,188] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-14 13:26:15,317] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-14 13:26:15,317] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-14 13:26:15,351] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-14 13:26:15,351] INFO  org.appui.utils.Executor name:我的
+[2017-08-14 13:26:15,352] INFO  org.appui.utils.Executor type:xpath
+[2017-08-14 13:26:15,352] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@35645047
+[2017-08-14 13:26:15,356] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-14 13:26:15,356] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-14 13:26:15,357] INFO  org.appui.utils.Executor name:登录按钮
+[2017-08-14 13:26:15,357] INFO  org.appui.utils.Executor type:id
+[2017-08-14 13:26:15,357] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@35645047
+[2017-08-14 13:26:15,358] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-14 13:26:15,358] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-14 13:26:15,358] INFO  org.appui.utils.Executor name:账号密码登录
+[2017-08-14 13:26:15,358] INFO  org.appui.utils.Executor type:id
+[2017-08-14 13:26:15,358] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@35645047
+[2017-08-14 13:26:15,361] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-08-14 13:26:15,361] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-08-14 13:26:15,362] INFO  org.appui.utils.Executor name:用户名
+[2017-08-14 13:26:15,362] INFO  org.appui.utils.Executor type:id
+[2017-08-14 13:26:15,362] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@35645047
+[2017-08-14 13:26:15,362] INFO  org.appui.utils.Executor 13567114122
+[2017-08-14 13:26:15,362] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-08-14 13:26:15,363] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-08-14 13:26:15,363] INFO  org.appui.utils.Executor name:密码
+[2017-08-14 13:26:15,363] INFO  org.appui.utils.Executor type:id
+[2017-08-14 13:26:15,363] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@35645047
+[2017-08-14 13:26:15,363] INFO  org.appui.utils.Executor infinite2012
+[2017-08-14 13:26:15,365] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-14 13:26:15,365] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-14 13:26:15,366] INFO  org.appui.utils.Executor name:提交
+[2017-08-14 13:26:15,366] INFO  org.appui.utils.Executor type:id
+[2017-08-14 13:26:15,366] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@35645047
+[2017-08-14 13:26:15,370] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-08-14 13:26:15,374] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-14 13:26:15,382] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-08-14 13:26:15,382] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-14 13:26:30,332] ERROR org.appui.utils.TestBaseCase appium环境配置失败
+[2017-08-14 13:26:30,337] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-14 13:26:30,340] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-14 13:26:30,341] INFO  org.appui.utils.ElementAction 等待15秒
+[2017-08-14 13:26:45,364] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-14 13:26:45,500] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-14 13:26:45,500] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-14 13:26:45,521] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-14 13:26:45,521] INFO  org.appui.utils.Executor name:我的
+[2017-08-14 13:26:45,522] INFO  org.appui.utils.Executor type:xpath
+[2017-08-14 13:26:45,522] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@6bc407fd
+[2017-08-14 13:26:45,524] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-14 13:26:45,524] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-14 13:26:45,525] INFO  org.appui.utils.Executor name:登录按钮
+[2017-08-14 13:26:45,525] INFO  org.appui.utils.Executor type:id
+[2017-08-14 13:26:45,525] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@6bc407fd
+[2017-08-14 13:26:45,526] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-14 13:26:45,526] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-14 13:26:45,526] INFO  org.appui.utils.Executor name:账号密码登录
+[2017-08-14 13:26:45,526] INFO  org.appui.utils.Executor type:id
+[2017-08-14 13:26:45,526] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@6bc407fd
+[2017-08-14 13:26:45,527] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-08-14 13:26:45,527] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-08-14 13:26:45,527] INFO  org.appui.utils.Executor name:用户名
+[2017-08-14 13:26:45,527] INFO  org.appui.utils.Executor type:id
+[2017-08-14 13:26:45,527] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@6bc407fd
+[2017-08-14 13:26:45,527] INFO  org.appui.utils.Executor 13567114122
+[2017-08-14 13:26:45,529] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-08-14 13:26:45,529] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-08-14 13:26:45,529] INFO  org.appui.utils.Executor name:密码
+[2017-08-14 13:26:45,529] INFO  org.appui.utils.Executor type:id
+[2017-08-14 13:26:45,529] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@6bc407fd
+[2017-08-14 13:26:45,529] INFO  org.appui.utils.Executor infinite2012
+[2017-08-14 13:26:45,530] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-14 13:26:45,530] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-14 13:26:45,530] INFO  org.appui.utils.Executor name:提交
+[2017-08-14 13:26:45,530] INFO  org.appui.utils.Executor type:id
+[2017-08-14 13:26:45,530] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@6bc407fd
+[2017-08-14 13:26:45,533] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-08-14 13:26:45,534] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-14 13:26:45,536] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-08-14 13:26:45,536] INFO  org.appui.utils.TestListener 测试用例:登录测试---end

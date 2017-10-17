@@ -1,0 +1,66 @@
+[2017-06-22 15:28:05,284] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-06-22 15:28:05,311] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-06-22 15:28:05,369] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-06-22 15:28:05,542] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-06-22 15:28:05,546] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-06-22 15:28:15,546] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-06-22 15:28:30,205] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-06-22 15:28:30,209] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-06-22 15:28:30,209] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-06-22 15:28:39,255] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-06-22 15:28:39,373] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-06-22 15:28:39,373] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-06-22 15:28:39,396] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-06-22 15:28:39,403] ERROR org.appui.utils.TestListener 0
+[2017-06-22 15:28:39,820] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-06-22 15:28:39,822] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-06-22 15:28:39,822] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-06-22 15:28:39,826] ERROR org.appui.utils.TestListener 0
+[2017-06-22 15:28:40,226] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-06-22 15:28:40,227] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-06-22 15:28:40,227] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-06-22 15:28:41,716] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-06-22 15:28:41,718] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-06-22 15:37:33,661] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-06-22 15:37:33,699] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-06-22 15:37:33,737] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-06-22 15:37:33,918] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-06-22 15:37:33,922] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-06-22 15:37:43,922] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-06-22 15:37:54,152] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-06-22 15:37:54,157] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-06-22 15:37:54,157] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-06-22 15:38:03,192] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-06-22 15:38:03,322] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-06-22 15:38:03,322] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-06-22 15:38:03,355] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-06-22 15:38:03,359] ERROR org.appui.utils.TestListener 0
+[2017-06-22 15:38:03,769] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-06-22 15:38:03,771] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-06-22 15:38:03,771] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-06-22 15:38:03,776] ERROR org.appui.utils.TestListener 0
+[2017-06-22 15:38:04,126] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-06-22 15:38:04,127] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-06-22 15:38:04,128] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-06-22 15:38:05,865] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-06-22 15:38:05,867] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-06-22 16:14:06,137] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-06-22 16:14:06,299] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-06-22 16:14:06,300] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-06-22 16:14:06,325] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-06-22 17:18:24,581] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-06-22 17:18:24,832] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-06-22 17:18:24,833] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-06-22 17:18:24,853] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+

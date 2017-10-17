@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="mailTitle" value="自动化测试报告"/>
+  <parameter name="appName" value="tongcheng.apk"/>
+  <parameter name="smtpPort" value=""/>
+  <parameter name="reportTitle" value="自动化测试报告"/>
+  <parameter name="nodeURL" value="127.0.0.1:4723"/>
+  <parameter name="smtpPassWord" value=""/>
+  <parameter name="reportUrl" value=""/>
+  <parameter name="deviceName" value="127.0.0.1:62001"/>
+  <parameter name="appMainPackage" value="com.tongcheng.android"/>
+  <parameter name="appActivity" value="com.tongcheng.android.LoadingActivity"/>
+  <parameter name="smtpHost" value=""/>
+  <parameter name="smtpUserName" value=""/>
+  <parameter name="recipients" value=""/>
+  <parameter name="driverName" value="AndroidDriver"/>
+  <parameter name="sdkVersion" value="6.0"/>
+  <parameter name="platformName" value="Android"/>
+  <parameter name="logUrl" value=""/>
+  <test name="测试执行(failed)">
+    <classes>
+      <class name="ExcuteTesting">
+        <methods>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- ExcuteTesting -->
+    </classes>
+  </test> <!-- 测试执行(failed) -->
+</suite> <!-- Failed suite [Suite] -->

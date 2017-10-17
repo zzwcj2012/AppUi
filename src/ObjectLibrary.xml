@@ -1,0 +1,15 @@
+<MAP>
+  <page pagename="appui.pageObject.Login">
+    <locator type="xpath" timeout="3" value="//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]">我的</locator>
+    <locator type="id" timeout="3" value="com.tongcheng.android:id/tv_login_name">登录按钮</locator>
+    <locator type="id" timeout="3" value="com.tongcheng.android:id/tv_login_tab_second">账号密码登录</locator>
+    <locator type="id" timeout="3" value="com.tongcheng.android:id/et_login_static_account_input">用户名</locator>
+    <locator type="id" timeout="3" value="com.tongcheng.android:id/et_login_static_password_input">密码</locator>
+    <locator type="id" timeout="3" value="com.tongcheng.android:id/btn_login_static_commit">提交</locator>
+    <locator type="id" timeout="3" value="com.tongcheng.android:id/img_mytc_logo">登录预期结果</locator>
+    <locator type="id" timeout="3" value="com.tongcheng.android:id/img_mytc_logo">头像</locator>
+    <locator type="id" timeout="3" value="com.tongcheng.android:id/btn_login_out">退出登录</locator>
+    <locator type="id" timeout="3" value="com.tongcheng.android:id/tcw__dialog_button_right">确认</locator>
+    <locator type="id" timeout="3" value="com.tongcheng.android:id/tcw__dialog_button_right">密码错误预期结果</locator>
+  </page>
+</MAP>

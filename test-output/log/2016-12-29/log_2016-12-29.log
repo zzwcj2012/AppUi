@@ -1,0 +1,131 @@
+[2016-12-29 11:31:05,791] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-29 11:31:05,796] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-29 11:31:05,799] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-29 11:31:15,800] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-29 11:31:33,363] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 关闭appium server
+[2016-12-29 11:31:33,365] INFO  org.webdriver.patatiumappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2016-12-29 14:20:11,007] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-29 14:20:11,016] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-29 14:20:11,020] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-29 14:20:21,021] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-29 14:20:39,773] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 关闭appium server
+[2016-12-29 14:20:39,775] INFO  org.webdriver.patatiumappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2016-12-29 16:35:35,113] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-29 16:35:35,119] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-29 16:35:35,122] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-29 16:35:45,123] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-29 16:36:01,431] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 16:36:01,437] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 16:36:02,645] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 16:36:02,645] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 16:36:02,648] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 16:36:02,648] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 16:36:04,956] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 关闭appium server
+[2016-12-29 16:36:04,959] INFO  org.webdriver.patatiumappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2016-12-29 16:36:06,794] ERROR org.webdriver.patatiumappui.utils.SendMail 发送邮件失败！
+[2016-12-29 17:10:43,072] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-29 17:10:43,081] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-29 17:10:43,086] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-29 17:10:53,086] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-29 17:11:08,874] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 17:11:08,878] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 17:11:10,101] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2016-12-29 17:11:10,529] ERROR org.webdriver.patatiumappui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\滑动引导页0.jpg
+[2016-12-29 17:11:10,531] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--failed
+[2016-12-29 17:11:10,531] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 17:11:10,541] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2016-12-29 17:11:10,913] ERROR org.webdriver.patatiumappui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\滑动引导页0.jpg
+[2016-12-29 17:11:10,915] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--failed
+[2016-12-29 17:11:10,915] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 17:11:12,473] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 关闭appium server
+[2016-12-29 17:11:12,477] INFO  org.webdriver.patatiumappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2016-12-29 17:11:59,817] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-29 17:11:59,823] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-29 17:11:59,827] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-29 17:12:09,827] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-29 17:12:25,576] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 17:12:25,581] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 17:12:26,870] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 17:12:26,870] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 17:12:26,874] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 17:12:26,875] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 17:12:28,449] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 关闭appium server
+[2016-12-29 17:12:28,451] INFO  org.webdriver.patatiumappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2016-12-29 18:00:19,434] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-29 18:00:19,441] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-29 18:00:19,445] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-29 18:00:29,446] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-29 18:00:44,727] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:00:44,736] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:00:44,886] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:00:44,886] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:00:44,888] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:00:44,889] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:00:47,449] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 关闭appium server
+[2016-12-29 18:00:47,451] INFO  org.webdriver.patatiumappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2016-12-29 18:05:27,244] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-29 18:05:27,250] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-29 18:05:27,255] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-29 18:05:37,255] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-29 18:05:52,445] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:05:52,451] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:05:52,585] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:05:52,585] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:05:52,587] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:05:52,588] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:05:55,225] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 关闭appium server
+[2016-12-29 18:05:55,227] INFO  org.webdriver.patatiumappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2016-12-29 18:30:57,463] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-29 18:30:57,469] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-29 18:30:57,473] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-29 18:31:07,474] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-29 18:31:17,658] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:31:17,662] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:31:17,663] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待5秒
+[2016-12-29 18:31:22,797] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:31:22,797] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:31:22,801] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:31:22,801] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:31:25,492] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 关闭appium server
+[2016-12-29 18:31:25,494] INFO  org.webdriver.patatiumappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2016-12-29 18:32:22,507] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-29 18:32:22,514] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-29 18:32:22,518] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-29 18:32:32,518] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-29 18:32:42,856] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:32:42,860] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:32:42,861] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待5秒
+[2016-12-29 18:32:48,029] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:32:48,029] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:32:48,033] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:32:48,034] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:32:50,593] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 关闭appium server
+[2016-12-29 18:32:50,595] INFO  org.webdriver.patatiumappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2016-12-29 18:33:12,383] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-29 18:33:12,390] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-29 18:33:12,394] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-29 18:33:22,394] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-29 18:33:32,705] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待5秒
+[2016-12-29 18:33:37,873] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:33:37,876] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:33:37,877] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待5秒
+[2016-12-29 18:33:42,951] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:33:42,951] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:33:42,953] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:33:42,953] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:33:44,562] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 关闭appium server
+[2016-12-29 18:33:44,569] INFO  org.webdriver.patatiumappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2016-12-29 18:34:06,745] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2016-12-29 18:34:06,753] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2016-12-29 18:34:06,757] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2016-12-29 18:34:16,757] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2016-12-29 18:34:27,205] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待5秒
+[2016-12-29 18:34:32,403] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:34:32,410] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---start
+[2016-12-29 18:34:32,411] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待5秒
+[2016-12-29 18:34:37,476] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:34:37,477] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:34:37,479] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例: 滑动引导页--passed
+[2016-12-29 18:34:37,479] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:滑动引导页---end
+[2016-12-29 18:34:39,029] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 关闭appium server
+[2016-12-29 18:34:39,033] INFO  org.webdriver.patatiumappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------

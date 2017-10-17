@@ -1,0 +1,336 @@
+[2017-08-09 17:47:24,282] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:47:24,312] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:47:24,349] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-09 17:47:24,560] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-09 17:47:24,604] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-09 17:47:34,604] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-09 17:47:50,805] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:47:50,809] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:47:50,809] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-08-09 17:48:00,463] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:48:00,638] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:48:00,638] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:48:00,668] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:48:01,519] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 17:48:06,519] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:48:06,519] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:48:07,183] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 17:48:12,184] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:48:12,184] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:48:12,815] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 17:48:17,816] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-09 17:48:17,816] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-09 17:48:17,816] INFO  org.appui.utils.Executor name:立即体验
+[2017-08-09 17:48:17,816] INFO  org.appui.utils.Executor type:xpath
+[2017-08-09 17:48:17,817] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@1fa1cab1
+[2017-08-09 17:48:17,843] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:48:18,548] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 17:48:18,552] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 17:48:18,552] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 17:48:18,558] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:48:19,113] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 17:48:19,116] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 17:48:19,117] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 17:48:21,214] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-08-09 17:48:21,251] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-08-09 17:49:02,063] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:49:02,101] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:49:02,139] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-09 17:49:02,325] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-09 17:49:02,368] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-09 17:49:12,368] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-09 17:49:13,789] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:49:13,835] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:49:13,880] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-09 17:49:14,120] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-09 17:49:14,178] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-09 17:49:24,179] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-09 17:49:24,535] ERROR org.appui.utils.TestBaseCase appium环境配置失败
+[2017-08-09 17:49:24,541] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:49:24,545] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:49:24,545] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-08-09 17:49:27,838] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:49:27,841] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:49:27,842] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-08-09 17:49:33,573] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:49:33,739] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:49:33,739] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:49:33,776] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:49:33,777] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:49:33,777] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:49:33,778] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:49:33,778] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:49:33,783] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-09 17:49:33,783] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-09 17:49:33,784] INFO  org.appui.utils.Executor name:立即体验
+[2017-08-09 17:49:33,784] INFO  org.appui.utils.Executor type:xpath
+[2017-08-09 17:49:33,784] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@5ef5c734
+[2017-08-09 17:49:33,787] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:49:33,790] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:49:36,870] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:49:37,038] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:49:37,039] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:49:37,076] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:49:38,104] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:49:38,104] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:49:39,111] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:49:39,111] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:49:40,123] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-09 17:49:40,123] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-09 17:49:40,123] INFO  org.appui.utils.Executor name:立即体验
+[2017-08-09 17:49:40,123] INFO  org.appui.utils.Executor type:xpath
+[2017-08-09 17:49:40,123] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@78d6692f
+[2017-08-09 17:49:40,127] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:49:41,145] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:49:53,820] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:49:53,846] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:49:53,880] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-09 17:49:54,046] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-09 17:49:54,090] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-09 17:50:04,090] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-09 17:50:20,021] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:50:20,025] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:50:20,026] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-08-09 17:50:29,056] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:50:29,200] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:50:29,200] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:50:29,240] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:50:30,509] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:50:30,510] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:50:31,209] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 17:50:36,209] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:50:36,210] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:50:36,830] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 17:50:41,830] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-09 17:50:41,830] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-09 17:50:41,831] INFO  org.appui.utils.Executor name:立即体验
+[2017-08-09 17:50:41,831] INFO  org.appui.utils.Executor type:xpath
+[2017-08-09 17:50:41,831] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@132e0cc
+[2017-08-09 17:50:41,834] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:50:42,998] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 17:50:43,001] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 17:50:43,002] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 17:50:43,007] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:50:44,007] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 17:50:44,010] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 17:50:44,010] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 17:50:46,149] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-08-09 17:50:46,190] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-08-09 17:54:04,200] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:54:04,226] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:54:04,259] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-09 17:54:04,431] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-09 17:54:04,472] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-09 17:54:14,472] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-09 17:54:29,465] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:54:29,469] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:54:29,469] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-08-09 17:54:38,498] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:54:38,662] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:54:38,662] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:54:38,697] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:54:40,073] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:54:40,073] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:54:40,718] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 17:54:45,719] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:54:45,719] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:54:46,296] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 17:54:51,296] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-09 17:54:51,297] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-09 17:54:51,297] INFO  org.appui.utils.Executor name:立即体验
+[2017-08-09 17:54:51,297] INFO  org.appui.utils.Executor type:xpath
+[2017-08-09 17:54:51,297] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@132e0cc
+[2017-08-09 17:54:51,300] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:54:52,147] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 17:54:52,151] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 17:54:52,151] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 17:54:52,155] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:54:52,852] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 17:54:52,855] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 17:54:52,855] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 17:54:55,088] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-08-09 17:54:55,125] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-08-09 17:55:37,151] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:55:37,176] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:55:37,218] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-09 17:55:37,393] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-09 17:55:37,434] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-09 17:55:47,434] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-09 17:56:02,643] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:56:02,650] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:56:02,650] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-08-09 17:56:11,686] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:56:11,911] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:56:11,911] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:56:11,946] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:56:12,190] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:56:12,190] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:56:12,401] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:56:12,402] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:56:12,561] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-09 17:56:12,562] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-09 17:56:12,562] INFO  org.appui.utils.Executor name:立即体验
+[2017-08-09 17:56:12,562] INFO  org.appui.utils.Executor type:xpath
+[2017-08-09 17:56:12,562] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@6cc558c6
+[2017-08-09 17:56:12,567] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:56:14,114] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 17:56:14,117] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 17:56:14,118] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 17:56:14,130] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:56:14,782] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 17:56:14,785] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 17:56:14,785] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 17:56:16,827] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-08-09 17:56:16,865] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-08-09 17:57:54,807] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:57:54,850] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:57:54,883] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-09 17:57:55,064] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-09 17:57:55,107] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-09 17:58:05,107] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-09 17:58:28,737] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:58:28,740] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 17:58:28,741] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-08-09 17:58:37,777] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:58:37,983] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:58:37,983] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:58:38,049] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 17:58:39,875] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 17:58:44,876] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:58:44,876] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:58:45,512] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 17:58:50,513] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 17:58:50,513] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 17:58:51,095] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 17:58:56,096] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-09 17:58:56,096] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-09 17:58:56,096] INFO  org.appui.utils.Executor name:立即体验
+[2017-08-09 17:58:56,096] INFO  org.appui.utils.Executor type:xpath
+[2017-08-09 17:58:56,097] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@1fa1cab1
+[2017-08-09 17:58:56,100] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:58:56,769] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 17:58:56,772] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 17:58:56,773] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 17:58:56,777] ERROR org.appui.utils.TestListener 0
+[2017-08-09 17:58:57,441] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 17:58:57,444] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 17:58:57,444] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 17:58:59,786] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-08-09 17:58:59,824] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-08-09 18:13:13,980] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 18:13:14,012] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 18:13:14,048] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-09 18:13:14,221] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-09 18:13:14,263] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-09 18:13:24,263] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-09 18:13:39,858] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 18:13:39,862] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 18:13:39,862] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-08-09 18:13:48,897] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 18:13:49,031] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 18:13:49,032] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 18:13:49,070] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 18:13:49,337] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 18:13:49,337] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 18:13:49,497] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 18:13:49,497] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 18:13:49,627] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-09 18:13:49,627] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-09 18:13:49,627] INFO  org.appui.utils.Executor name:立即体验
+[2017-08-09 18:13:49,627] INFO  org.appui.utils.Executor type:xpath
+[2017-08-09 18:13:49,627] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@6cc558c6
+[2017-08-09 18:13:49,631] ERROR org.appui.utils.TestListener 0
+[2017-08-09 18:13:51,167] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 18:13:51,171] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 18:13:51,171] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 18:13:51,176] ERROR org.appui.utils.TestListener 0
+[2017-08-09 18:13:51,855] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 18:13:51,857] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 18:13:51,857] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 18:13:53,959] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-08-09 18:13:53,996] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-08-09 18:18:35,961] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 18:18:35,991] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 18:18:36,029] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-09 18:18:36,243] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-09 18:18:36,280] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-09 18:18:46,280] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-09 18:19:14,882] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 18:19:14,885] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-09 18:19:14,886] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-08-09 18:19:23,912] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 18:19:24,041] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 18:19:24,041] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 18:19:24,069] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 18:19:29,842] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 18:19:29,843] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 18:19:30,441] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 18:19:35,442] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 18:19:35,442] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 18:19:36,022] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-08-09 18:19:41,022] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-09 18:19:41,023] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-09 18:19:41,023] INFO  org.appui.utils.Executor name:立即体验
+[2017-08-09 18:19:41,023] INFO  org.appui.utils.Executor type:xpath
+[2017-08-09 18:19:41,023] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@132e0cc
+[2017-08-09 18:19:41,029] ERROR org.appui.utils.TestListener 0
+[2017-08-09 18:19:41,634] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 18:19:41,637] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 18:19:41,637] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 18:19:41,642] ERROR org.appui.utils.TestListener 0
+[2017-08-09 18:19:42,218] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-08-09 18:19:42,221] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-08-09 18:19:42,221] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-09 18:19:44,411] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-08-09 18:19:44,438] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-08-09 18:21:04,660] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 18:21:04,815] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 18:21:04,816] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 18:21:04,848] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-09 18:21:04,852] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 18:21:04,852] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 18:21:04,853] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-08-09 18:21:04,853] INFO  org.appui.utils.Executor 第一列方法名:leftSwipe
+[2017-08-09 18:21:04,853] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-09 18:21:04,854] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-09 18:21:04,854] INFO  org.appui.utils.Executor name:立即体验
+[2017-08-09 18:21:04,854] INFO  org.appui.utils.Executor type:xpath
+[2017-08-09 18:21:04,854] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@27c20538

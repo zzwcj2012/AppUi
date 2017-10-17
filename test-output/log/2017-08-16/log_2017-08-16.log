@@ -1,0 +1,189 @@
+[2017-08-16 15:45:22,711] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:45:22,751] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:45:22,805] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-16 15:45:23,029] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-16 15:45:23,067] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-16 15:45:33,067] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-16 15:45:49,259] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-16 15:45:49,265] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-16 15:45:49,269] INFO  org.appui.utils.ElementAction 等待15秒
+[2017-08-16 15:46:04,312] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:46:04,585] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:46:04,586] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:46:04,602] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:46:04,603] INFO  org.appui.utils.Executor name:我的
+[2017-08-16 15:46:04,603] INFO  org.appui.utils.Executor type:xpath
+[2017-08-16 15:46:04,603] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@748741cb
+[2017-08-16 15:46:04,603] ERROR org.appui.pageObject.Login 没有找到我的页面元素
+[2017-08-16 15:46:04,620] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:46:04,624] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:46:04,625] INFO  org.appui.utils.Executor name:登录按钮
+[2017-08-16 15:46:04,625] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:46:04,625] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@748741cb
+[2017-08-16 15:46:04,625] ERROR org.appui.pageObject.Login 没有找到登录按钮页面元素
+[2017-08-16 15:46:04,625] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:46:04,626] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:46:04,626] INFO  org.appui.utils.Executor name:账号密码登录
+[2017-08-16 15:46:04,626] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:46:04,626] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@748741cb
+[2017-08-16 15:46:04,626] ERROR org.appui.pageObject.Login 没有找到账号密码登录页面元素
+[2017-08-16 15:46:04,629] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-08-16 15:46:04,629] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-08-16 15:46:04,629] INFO  org.appui.utils.Executor name:用户名
+[2017-08-16 15:46:04,630] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:46:04,630] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@748741cb
+[2017-08-16 15:46:04,630] ERROR org.appui.pageObject.Login 没有找到用户名页面元素
+[2017-08-16 15:46:04,630] INFO  org.appui.utils.Executor 13567114122
+[2017-08-16 15:46:04,630] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-08-16 15:46:04,630] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-08-16 15:46:04,631] INFO  org.appui.utils.Executor name:密码
+[2017-08-16 15:46:04,631] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:46:04,631] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@748741cb
+[2017-08-16 15:46:04,631] ERROR org.appui.pageObject.Login 没有找到密码页面元素
+[2017-08-16 15:46:04,631] INFO  org.appui.utils.Executor infinite2012
+[2017-08-16 15:46:04,640] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:46:04,645] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:46:04,645] INFO  org.appui.utils.Executor name:提交
+[2017-08-16 15:46:04,645] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:46:04,645] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@748741cb
+[2017-08-16 15:46:04,646] ERROR org.appui.pageObject.Login 没有找到提交页面元素
+[2017-08-16 15:46:04,657] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-08-16 15:46:04,658] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-16 15:46:04,679] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-08-16 15:46:04,679] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-16 15:46:07,725] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-08-16 15:46:07,762] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-08-16 15:47:50,716] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:47:50,748] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:47:50,787] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-16 15:47:50,971] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-16 15:47:51,009] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-16 15:48:01,010] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-16 15:48:16,910] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-16 15:48:16,915] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-16 15:48:16,915] INFO  org.appui.utils.ElementAction 等待15秒
+[2017-08-16 15:48:31,955] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:48:32,104] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:48:32,104] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:48:32,141] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:48:32,142] INFO  org.appui.utils.Executor name:我的
+[2017-08-16 15:48:32,142] INFO  org.appui.utils.Executor type:xpath
+[2017-08-16 15:48:32,142] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@68df9280
+[2017-08-16 15:48:32,145] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-08-16 15:48:34,278] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-08-16 15:48:34,278] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:48:34,278] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:48:34,278] INFO  org.appui.utils.Executor name:登录按钮
+[2017-08-16 15:48:34,278] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:48:34,279] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@68df9280
+[2017-08-16 15:48:34,279] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/tv_login_name]
+[2017-08-16 15:48:35,771] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/tv_login_name]成功！
+[2017-08-16 15:48:35,772] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:48:35,772] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:48:35,772] INFO  org.appui.utils.Executor name:账号密码登录
+[2017-08-16 15:48:35,772] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:48:35,772] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@68df9280
+[2017-08-16 15:48:35,772] INFO  org.appui.utils.ElementAction 查找元素：账号密码登录方式[By.id:com.tongcheng.android:id/tv_login_tab_second]
+[2017-08-16 15:48:36,421] INFO  org.appui.utils.ElementAction click元素：账号密码登录[By.id:com.tongcheng.android:id/tv_login_tab_second]成功！
+[2017-08-16 15:48:36,423] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-08-16 15:48:36,423] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-08-16 15:48:36,423] INFO  org.appui.utils.Executor name:用户名
+[2017-08-16 15:48:36,423] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:48:36,424] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@68df9280
+[2017-08-16 15:48:36,424] INFO  org.appui.utils.Executor 13567114122
+[2017-08-16 15:48:36,424] INFO  org.appui.utils.ElementAction 查找元素：用户名方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-08-16 15:48:42,307] INFO  org.appui.utils.ElementAction input输入：用户名[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-08-16 15:48:42,307] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-08-16 15:48:42,307] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-08-16 15:48:42,307] INFO  org.appui.utils.Executor name:密码
+[2017-08-16 15:48:42,307] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:48:42,307] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@68df9280
+[2017-08-16 15:48:42,307] INFO  org.appui.utils.Executor infinite2012
+[2017-08-16 15:48:42,307] INFO  org.appui.utils.ElementAction 查找元素：密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-08-16 15:48:47,682] INFO  org.appui.utils.ElementAction input输入：密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-08-16 15:48:47,682] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:48:47,682] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:48:47,683] INFO  org.appui.utils.Executor name:提交
+[2017-08-16 15:48:47,683] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:48:47,683] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@68df9280
+[2017-08-16 15:48:47,683] INFO  org.appui.utils.ElementAction 查找元素：提交方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-08-16 15:48:48,586] INFO  org.appui.utils.ElementAction click元素：提交[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-08-16 15:48:48,592] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-08-16 15:48:48,592] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-16 15:48:48,600] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-08-16 15:48:48,601] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-16 15:48:52,471] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-08-16 15:48:52,508] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-08-16 15:49:18,523] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:49:18,566] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:49:18,600] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-08-16 15:49:18,788] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-08-16 15:49:18,828] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-08-16 15:49:28,828] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-08-16 15:49:44,228] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-16 15:49:44,232] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-08-16 15:49:44,233] INFO  org.appui.utils.ElementAction 等待15秒
+[2017-08-16 15:49:59,270] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:49:59,439] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:49:59,440] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:49:59,500] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-08-16 15:49:59,500] INFO  org.appui.utils.Executor name:我的
+[2017-08-16 15:49:59,500] INFO  org.appui.utils.Executor type:xpath
+[2017-08-16 15:49:59,501] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@479460a6
+[2017-08-16 15:49:59,503] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-08-16 15:50:00,378] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-08-16 15:50:00,379] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:50:00,379] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:50:00,379] INFO  org.appui.utils.Executor name:登录按钮
+[2017-08-16 15:50:00,379] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:50:00,379] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@479460a6
+[2017-08-16 15:50:00,379] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/tv_login_name]
+[2017-08-16 15:50:02,527] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/tv_login_name]成功！
+[2017-08-16 15:50:02,528] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:50:02,528] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:50:02,529] INFO  org.appui.utils.Executor name:账号密码登录
+[2017-08-16 15:50:02,529] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:50:02,529] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@479460a6
+[2017-08-16 15:50:02,530] INFO  org.appui.utils.ElementAction 查找元素：账号密码登录方式[By.id:com.tongcheng.android:id/tv_login_tab_second]
+[2017-08-16 15:50:03,731] INFO  org.appui.utils.ElementAction click元素：账号密码登录[By.id:com.tongcheng.android:id/tv_login_tab_second]成功！
+[2017-08-16 15:50:03,731] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-08-16 15:50:03,731] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-08-16 15:50:03,731] INFO  org.appui.utils.Executor name:用户名
+[2017-08-16 15:50:03,731] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:50:03,731] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@479460a6
+[2017-08-16 15:50:03,732] INFO  org.appui.utils.Executor 13567114122
+[2017-08-16 15:50:03,732] INFO  org.appui.utils.ElementAction 查找元素：用户名方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-08-16 15:50:09,428] INFO  org.appui.utils.ElementAction input输入：用户名[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-08-16 15:50:09,429] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-08-16 15:50:09,429] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-08-16 15:50:09,429] INFO  org.appui.utils.Executor name:密码
+[2017-08-16 15:50:09,429] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:50:09,429] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@479460a6
+[2017-08-16 15:50:09,430] INFO  org.appui.utils.Executor infinite2012
+[2017-08-16 15:50:09,430] INFO  org.appui.utils.ElementAction 查找元素：密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-08-16 15:50:14,746] INFO  org.appui.utils.ElementAction input输入：密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-08-16 15:50:14,746] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-08-16 15:50:14,746] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-08-16 15:50:14,746] INFO  org.appui.utils.Executor name:提交
+[2017-08-16 15:50:14,746] INFO  org.appui.utils.Executor type:id
+[2017-08-16 15:50:14,747] INFO  org.appui.utils.Executor element:[Ljava.lang.String;@479460a6
+[2017-08-16 15:50:14,747] INFO  org.appui.utils.ElementAction 查找元素：提交方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-08-16 15:50:15,543] INFO  org.appui.utils.ElementAction click元素：提交[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-08-16 15:50:15,547] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-08-16 15:50:15,547] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-16 15:50:15,550] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-08-16 15:50:15,551] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-08-16 15:50:18,420] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-08-16 15:50:18,459] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------

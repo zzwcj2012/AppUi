@@ -1,0 +1,382 @@
+[2017-01-19 17:41:22,552] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 17:41:22,561] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 17:41:22,565] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 17:41:32,566] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 17:41:43,909] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 17:41:53,486] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 17:41:59,053] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 17:42:04,604] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-19 17:42:06,609] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-01-19 17:42:07,312] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-01-19 17:42:09,142] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:42:09,145] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:42:09,208] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:09,758] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:10,287] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:10,817] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:11,409] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:11,940] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:12,461] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:13,004] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:13,545] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:15,711] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:16,296] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:16,850] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:17,971] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:18,539] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:19,170] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:19,781] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:21,048] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:21,697] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:22,484] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:24,023] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:24,667] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:25,220] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:25,772] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:27,072] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:27,629] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:28,233] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:28,793] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:42:29,495] INFO  org.appui.utils.ElementAction 超时无法定位页面元素
+[2017-01-19 17:42:30,221] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\2017-01-19 174229506.jpg
+[2017-01-19 17:42:30,221] INFO  org.appui.utils.ElementAction 2017-01-19 174229506
+[2017-01-19 17:42:30,223] ERROR org.appui.utils.TestListener 0
+[2017-01-19 17:42:30,856] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-19 17:42:30,858] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-19 17:42:30,859] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 17:42:30,862] ERROR org.appui.utils.TestListener 0
+[2017-01-19 17:42:31,467] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-19 17:42:31,469] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-19 17:42:31,469] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 17:42:33,238] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-19 17:42:33,240] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-19 17:42:43,931] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 17:42:43,936] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 17:42:43,939] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 17:42:53,939] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 17:43:04,125] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 17:43:13,687] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 17:43:19,221] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 17:43:24,735] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-19 17:43:26,738] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-01-19 17:43:27,469] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-01-19 17:43:28,480] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-01-19 17:43:29,704] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-01-19 17:43:29,706] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:43:29,711] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:43:29,788] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:30,944] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:32,341] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:32,901] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:33,502] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:34,056] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:35,109] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:35,820] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:36,384] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:36,932] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:38,081] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:38,743] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:39,304] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:39,922] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:41,108] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:41,952] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:42,623] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:44,112] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:44,679] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:45,322] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:45,874] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:47,107] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:47,805] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:48,404] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:48,957] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:50,104] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:43:50,248] INFO  org.appui.utils.ElementAction 超时无法定位页面元素
+[2017-01-19 17:43:50,959] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\2017-01-19 174350264.jpg
+[2017-01-19 17:43:50,959] INFO  org.appui.utils.ElementAction 2017-01-19 174350264
+[2017-01-19 17:43:50,962] ERROR org.appui.utils.TestListener 0
+[2017-01-19 17:43:51,722] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-19 17:43:51,724] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-19 17:43:51,724] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 17:43:51,735] ERROR org.appui.utils.TestListener 0
+[2017-01-19 17:43:52,250] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-19 17:43:52,254] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-19 17:43:52,254] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 17:43:53,811] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-19 17:43:53,813] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-19 17:44:07,639] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 17:44:07,644] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 17:44:07,647] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 17:44:17,648] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 17:44:28,015] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 17:44:37,618] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 17:44:43,168] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 17:44:48,721] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-19 17:44:50,723] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-01-19 17:44:51,534] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-01-19 17:44:52,460] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-01-19 17:44:53,603] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-01-19 17:44:53,606] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:44:53,613] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:44:53,629] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-19 17:44:55,681] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:44:56,336] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:44:56,976] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:44:57,601] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:44:59,120] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:44:59,686] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:00,295] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:00,867] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:02,100] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:02,690] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:03,257] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:03,873] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:05,220] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:05,842] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:06,396] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:06,952] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:08,081] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:08,663] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:09,325] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:09,885] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:11,114] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:11,676] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:12,291] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:12,852] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:14,085] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:14,652] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:15,219] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:15,795] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-19 17:45:16,585] INFO  org.appui.utils.ElementAction 超时无法定位页面元素
+[2017-01-19 17:45:17,213] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\2017-01-19 174516597.jpg
+[2017-01-19 17:45:17,213] INFO  org.appui.utils.ElementAction 2017-01-19 174516597
+[2017-01-19 17:45:17,216] ERROR org.appui.utils.TestListener 0
+[2017-01-19 17:45:17,785] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-19 17:45:17,787] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-19 17:45:17,787] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 17:45:17,791] ERROR org.appui.utils.TestListener 0
+[2017-01-19 17:45:18,350] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-19 17:45:18,352] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-19 17:45:18,352] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 17:45:20,106] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-19 17:45:20,108] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-19 17:56:42,669] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 17:56:42,673] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 17:56:42,676] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 17:56:52,677] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 17:57:03,468] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 17:57:12,468] ERROR org.appui.pageObject.GuildPage 没有找到开始页页面元素
+[2017-01-19 17:57:12,476] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:57:12,477] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:57:12,864] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 17:57:12,864] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 17:57:12,865] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 17:57:13,208] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 17:57:13,209] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 17:57:13,209] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 17:57:21,373] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 17:57:21,377] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 17:57:21,381] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 17:57:31,381] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 17:57:31,715] ERROR org.appui.utils.TestBaseCase appium环境配置失败
+[2017-01-19 17:57:31,718] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 17:57:40,718] ERROR org.appui.pageObject.GuildPage 没有找到开始页页面元素
+[2017-01-19 17:57:40,725] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:57:40,728] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:57:40,737] ERROR org.appui.utils.TestListener 0
+[2017-01-19 17:57:52,509] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 17:57:52,513] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 17:57:52,517] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 17:58:02,517] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 17:58:13,353] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 17:58:22,353] ERROR org.appui.pageObject.GuildPage 没有找到开始页页面元素
+[2017-01-19 17:58:22,362] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:58:22,364] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 17:58:22,762] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 17:58:22,762] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 17:58:22,763] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 17:58:23,178] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 17:58:23,178] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 17:58:23,178] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:00:59,130] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 18:00:59,136] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 18:00:59,139] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 18:01:09,140] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 18:01:19,517] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 18:01:28,519] ERROR org.appui.pageObject.GuildPage 没有找到开始页页面元素
+[2017-01-19 18:01:28,527] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:01:28,529] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:01:28,968] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:01:28,969] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:01:28,969] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:01:29,399] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:01:29,399] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:01:29,399] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:01:50,573] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 18:01:50,577] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 18:01:50,580] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 18:02:00,581] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 18:02:00,921] ERROR org.appui.utils.TestBaseCase appium环境配置失败
+[2017-01-19 18:02:00,925] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 18:02:09,934] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:02:09,936] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:02:09,945] ERROR org.appui.utils.TestListener 0
+[2017-01-19 18:05:07,018] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 18:05:07,022] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 18:05:07,025] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 18:05:17,026] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 18:05:27,765] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 18:05:37,336] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:05:42,852] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:05:48,370] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-19 18:05:50,373] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-01-19 18:05:51,112] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-01-19 18:05:52,110] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-01-19 18:05:53,166] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-01-19 18:05:53,173] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:05:53,182] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:05:53,194] ERROR org.appui.pageObject.LoginPage1 没有找到我的页面元素
+[2017-01-19 18:05:53,197] ERROR org.appui.utils.TestListener 0
+[2017-01-19 18:05:53,700] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-19 18:05:53,702] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-19 18:05:53,702] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:05:53,705] ERROR org.appui.utils.TestListener 0
+[2017-01-19 18:05:54,326] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-19 18:05:54,329] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-19 18:05:54,329] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:05:56,120] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-19 18:05:56,122] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-19 18:06:29,261] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 18:06:29,265] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 18:06:29,268] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 18:06:39,269] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 18:06:49,588] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 18:06:58,588] ERROR org.appui.pageObject.GuildPage 没有找到开始页页面元素
+[2017-01-19 18:06:58,596] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:06:58,597] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:06:58,962] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:06:58,962] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:06:58,962] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:06:59,351] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:06:59,352] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:06:59,352] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:09:17,681] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 18:09:17,686] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 18:09:17,689] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 18:09:27,689] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 18:09:38,444] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 18:09:47,445] ERROR org.appui.pageObject.GuildPage 没有找到开始页页面元素
+[2017-01-19 18:09:47,454] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:09:47,456] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:09:47,886] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:09:47,886] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:09:47,886] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:09:48,259] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:09:48,259] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:09:48,259] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:12:52,517] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 18:12:52,522] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 18:12:52,526] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 18:13:02,526] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 18:13:13,182] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 18:13:22,183] ERROR org.appui.pageObject.GuildPage 没有找到开始页页面元素
+[2017-01-19 18:13:22,191] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:13:22,193] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:13:22,630] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:13:22,631] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:13:22,631] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:13:23,003] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:13:23,003] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:13:23,003] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:14:40,759] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 18:14:40,764] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 18:14:40,767] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 18:14:50,767] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 18:15:01,010] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 18:15:10,541] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:15:16,064] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:15:21,579] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-19 18:15:23,581] ERROR org.appui.pageObject.GuildPage 没有找到立即体验页面元素
+[2017-01-19 18:15:23,592] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:15:23,594] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:15:24,086] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:15:24,086] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:15:24,087] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:15:24,521] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:15:24,521] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:15:24,521] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:18:38,223] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 18:18:38,228] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 18:18:38,231] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 18:18:48,231] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 18:18:58,708] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 18:19:08,257] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:19:13,775] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:19:19,307] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-19 18:19:21,307] ERROR org.appui.pageObject.GuildPage 没有找到立即体验页面元素
+[2017-01-19 18:19:21,318] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:19:21,319] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:19:21,806] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:19:21,807] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:19:21,807] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:19:22,348] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:19:22,349] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:19:22,349] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:25:49,542] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 18:25:49,547] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 18:25:49,550] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 18:25:59,550] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 18:26:09,861] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 18:26:19,405] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:26:24,925] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:26:30,443] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-19 18:26:32,443] ERROR org.appui.pageObject.GuildPage 没有找到立即体验页面元素
+[2017-01-19 18:26:32,454] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:26:32,456] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:26:32,942] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:26:32,943] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:26:32,943] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:26:33,384] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:26:33,384] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:26:33,384] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:31:40,572] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 18:31:40,577] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 18:31:40,580] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 18:31:50,580] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 18:32:00,797] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 18:32:10,306] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:32:15,841] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:32:21,355] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-19 18:32:23,355] ERROR org.appui.pageObject.GuildPage 没有找到立即体验页面元素
+[2017-01-19 18:32:23,367] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:32:23,369] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:32:23,918] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:32:23,919] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:32:23,919] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:32:24,465] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试.jpg
+[2017-01-19 18:32:24,465] WARN  org.appui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-19 18:32:24,465] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:34:25,967] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-19 18:34:25,972] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-19 18:34:25,975] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-19 18:34:35,975] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-19 18:34:46,188] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-19 18:34:55,723] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:35:01,239] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-19 18:35:06,778] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-19 18:35:08,781] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-01-19 18:35:09,532] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-01-19 18:35:10,517] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-01-19 18:35:11,540] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-01-19 18:35:11,543] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:35:11,552] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-19 18:35:11,566] ERROR org.appui.pageObject.LoginPage1 没有找到我的页面元素
+[2017-01-19 18:35:11,571] ERROR org.appui.utils.TestListener 0
+[2017-01-19 18:35:12,165] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-19 18:35:12,167] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-19 18:35:12,167] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:35:12,171] ERROR org.appui.utils.TestListener 0
+[2017-01-19 18:35:12,756] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-19 18:35:12,758] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-19 18:35:12,758] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-19 18:35:14,608] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-19 18:35:14,610] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------

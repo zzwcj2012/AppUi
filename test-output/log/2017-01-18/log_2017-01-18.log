@@ -1,0 +1,34 @@
+[2017-01-18 20:08:30,823] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-18 20:08:30,828] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-18 20:08:30,831] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-01-18 20:08:40,831] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-01-18 20:08:51,793] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-01-18 20:09:01,387] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-18 20:09:06,946] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-01-18 20:09:12,519] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-18 20:09:14,526] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-01-18 20:09:15,438] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-01-18 20:09:16,750] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-01-18 20:09:17,750] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-01-18 20:09:17,753] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-18 20:09:17,762] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-01-18 20:09:17,780] INFO  org.appui.utils.ElementAction 查找元素：理财方式[By.name:金融理财]
+[2017-01-18 20:09:18,766] INFO  org.appui.utils.ElementAction click元素：理财[By.name:金融理财]成功！
+[2017-01-18 20:09:18,766] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-01-18 20:09:20,786] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-01-18 20:09:25,587] INFO  org.appui.utils.ElementAction input输入：输入账号[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-01-18 20:09:25,588] INFO  org.appui.utils.ElementAction 查找元素：输入密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-01-18 20:09:30,754] INFO  org.appui.utils.ElementAction input输入：输入密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-01-18 20:09:30,754] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-01-18 20:09:31,754] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-01-18 20:09:32,032] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-01-18 20:09:32,035] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-01-18 20:09:32,035] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-18 20:09:32,038] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-01-18 20:09:32,038] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-01-18 20:09:34,630] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-01-18 20:09:34,632] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-18 20:19:10,236] INFO  org.appui.utils.Assertion true
+[2017-01-18 20:19:10,240] INFO  org.appui.utils.Assertion 【Assert验证  pass!】
+[2017-01-18 20:19:10,241] INFO  org.appui.utils.Assertion 验证是否按医生姓名查询出结果:Assert验证：{实际值：刘兰39,预期值：刘兰} 实际值是否包含预期值
+[2017-01-18 20:19:10,241] INFO  org.appui.utils.Assertion 【Assert验证  pass!】

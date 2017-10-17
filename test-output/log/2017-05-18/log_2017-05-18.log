@@ -1,0 +1,81 @@
+[2017-05-18 11:05:19,761] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 11:05:19,923] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-05-18 11:05:19,923] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-05-18 11:05:19,923] INFO  org.appui.utils.Executor 读取action内容---：leftswipe
+[2017-05-18 11:05:19,924] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 11:05:19,924] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 11:05:19,924] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 11:05:19,924] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 11:05:19,924] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-05-18 11:05:19,924] INFO  org.appui.utils.Executor 读取action内容---：input
+[2017-05-18 11:05:19,924] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 17:58:14,892] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 17:59:06,657] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 17:59:06,828] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 17:59:06,828] ERROR org.appui.utils.Executor 无法映射关键字，请检查用例
+[2017-05-18 18:04:23,380] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:04:23,409] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:04:23,445] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-05-18 18:04:23,606] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-05-18 18:04:23,610] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-05-18 18:04:33,610] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-05-18 18:05:35,486] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-05-18 18:05:35,490] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-05-18 18:05:35,490] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-05-18 18:05:44,542] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:05:44,666] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 18:05:44,666] ERROR org.appui.utils.Executor 无法映射关键字，请检查用例
+[2017-05-18 18:05:44,682] ERROR org.appui.utils.TestListener 0
+[2017-05-18 18:05:45,107] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-05-18 18:05:45,109] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-05-18 18:05:45,109] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-05-18 18:05:45,113] ERROR org.appui.utils.TestListener 0
+[2017-05-18 18:05:45,509] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-05-18 18:05:45,510] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-05-18 18:05:45,510] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-05-18 18:05:47,157] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-05-18 18:05:47,160] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-05-18 18:13:39,967] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:13:40,126] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 18:13:40,127] ERROR org.appui.utils.Executor 无法映射关键字，请检查用例
+[2017-05-18 18:15:26,805] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:15:26,965] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 18:15:26,965] ERROR org.appui.utils.Executor 无法映射关键字，请检查用例
+[2017-05-18 18:23:51,644] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:23:51,808] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 18:23:51,808] ERROR org.appui.utils.Executor 无法映射关键字，请检查用例
+[2017-05-18 18:24:37,351] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:24:37,498] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 18:24:37,499] ERROR org.appui.utils.Executor 无法映射关键字，请检查用例
+[2017-05-18 18:25:04,875] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:25:05,041] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 18:25:05,041] ERROR org.appui.utils.Executor 无法映射关键字，请检查用例
+[2017-05-18 18:25:37,271] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:25:37,472] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 18:25:37,473] ERROR org.appui.utils.Executor 无法映射关键字，请检查用例
+[2017-05-18 18:26:27,422] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:26:27,578] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 18:26:27,578] ERROR org.appui.utils.Executor 无法映射关键字，请检查用例
+[2017-05-18 18:26:47,266] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:26:47,449] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 18:26:47,449] ERROR org.appui.utils.Executor 无法映射关键字，请检查用例
+[2017-05-18 18:28:37,429] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+
+[2017-05-18 18:28:37,602] INFO  org.appui.utils.Executor 读取action内容---：click
+[2017-05-18 18:28:37,602] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-05-18 18:28:37,621] INFO  org.appui.utils.XmlReadUtil ----------解析对象库完毕-----------
+

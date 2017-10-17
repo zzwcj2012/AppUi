@@ -1,0 +1,281 @@
+[2017-03-17 18:13:06,414] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-17 18:13:06,419] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-03-17 18:13:06,429] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-03-17 18:13:16,430] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-03-17 18:13:27,716] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-03-17 18:13:37,250] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 18:13:42,799] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 18:13:48,334] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-03-17 18:13:50,340] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-03-17 18:13:51,236] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-03-17 18:13:52,858] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:13:52,862] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:13:53,339] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:13:53,339] INFO  org.appui.utils.Executor 读取第二列内容---：我的
+[2017-03-17 18:13:53,339] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:13:53,339] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:13:53,351] ERROR org.appui.pageObject.Login 没有找到我的页面元素
+[2017-03-17 18:13:53,352] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:13:53,352] INFO  org.appui.utils.Executor 读取第二列内容---：登录按钮
+[2017-03-17 18:13:53,352] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:13:53,353] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:13:53,353] ERROR org.appui.pageObject.Login 没有找到登录按钮页面元素
+[2017-03-17 18:13:53,354] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-03-17 18:13:53,354] INFO  org.appui.utils.Executor 读取第二列内容---：账号
+[2017-03-17 18:13:53,354] INFO  org.appui.utils.Executor 读取第三列内容---：13567114122
+[2017-03-17 18:13:53,354] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-03-17 18:13:53,354] ERROR org.appui.pageObject.Login 没有找到输入账号页面元素
+[2017-03-17 18:13:53,355] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-03-17 18:13:53,355] INFO  org.appui.utils.Executor 读取第二列内容---：密码
+[2017-03-17 18:13:53,355] INFO  org.appui.utils.Executor 读取第三列内容---：infinite2012
+[2017-03-17 18:13:53,355] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-03-17 18:13:53,355] ERROR org.appui.pageObject.Login 没有找到输入密码页面元素
+[2017-03-17 18:13:53,356] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:13:53,356] INFO  org.appui.utils.Executor 读取第二列内容---：提交按钮
+[2017-03-17 18:13:53,356] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:13:53,356] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:13:53,356] ERROR org.appui.pageObject.Login 没有找到提交按钮页面元素
+[2017-03-17 18:13:53,357] ERROR org.appui.pageObject.Login 没有找到用户名页面元素
+[2017-03-17 18:13:53,362] ERROR org.appui.utils.TestListener 0
+[2017-03-17 18:13:54,297] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-03-17 18:13:54,299] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-03-17 18:13:54,299] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-03-17 18:13:54,308] ERROR org.appui.utils.TestListener 0
+[2017-03-17 18:13:55,048] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-03-17 18:13:55,050] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-03-17 18:13:55,050] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-03-17 18:13:56,867] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-03-17 18:13:56,869] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-03-17 18:15:16,001] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-17 18:15:16,005] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-03-17 18:15:16,010] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-03-17 18:15:26,010] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-03-17 18:15:37,093] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-03-17 18:15:46,665] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 18:15:52,168] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 18:15:57,700] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-03-17 18:15:59,703] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-03-17 18:16:00,430] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-03-17 18:16:01,567] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-03-17 18:16:02,665] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-03-17 18:16:02,668] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:16:02,672] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:16:02,833] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:16:02,833] INFO  org.appui.utils.Executor 读取第二列内容---：我的
+[2017-03-17 18:16:02,834] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:16:02,834] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:16:02,842] ERROR org.appui.pageObject.Login 没有找到我的页面元素
+[2017-03-17 18:16:02,844] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:16:02,845] INFO  org.appui.utils.Executor 读取第二列内容---：登录按钮
+[2017-03-17 18:16:02,845] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:16:02,845] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:16:02,845] ERROR org.appui.pageObject.Login 没有找到登录按钮页面元素
+[2017-03-17 18:16:02,846] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-03-17 18:16:02,846] INFO  org.appui.utils.Executor 读取第二列内容---：账号
+[2017-03-17 18:16:02,846] INFO  org.appui.utils.Executor 读取第三列内容---：13567114122
+[2017-03-17 18:16:02,846] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-03-17 18:16:02,846] ERROR org.appui.pageObject.Login 没有找到输入账号页面元素
+[2017-03-17 18:16:02,847] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-03-17 18:16:02,847] INFO  org.appui.utils.Executor 读取第二列内容---：密码
+[2017-03-17 18:16:02,847] INFO  org.appui.utils.Executor 读取第三列内容---：infinite2012
+[2017-03-17 18:16:02,847] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-03-17 18:16:02,847] ERROR org.appui.pageObject.Login 没有找到输入密码页面元素
+[2017-03-17 18:16:02,849] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:16:02,849] INFO  org.appui.utils.Executor 读取第二列内容---：提交按钮
+[2017-03-17 18:16:02,849] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:16:02,849] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:16:02,849] ERROR org.appui.pageObject.Login 没有找到提交按钮页面元素
+[2017-03-17 18:16:02,850] ERROR org.appui.pageObject.Login 没有找到用户名页面元素
+[2017-03-17 18:16:02,853] ERROR org.appui.utils.TestListener 0
+[2017-03-17 18:16:03,455] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-03-17 18:16:03,457] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-03-17 18:16:03,457] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-03-17 18:16:03,460] ERROR org.appui.utils.TestListener 0
+[2017-03-17 18:16:04,159] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-03-17 18:16:04,162] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-03-17 18:16:04,162] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-03-17 18:16:05,856] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-03-17 18:16:05,858] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-03-17 18:17:33,243] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-17 18:17:33,247] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-03-17 18:17:33,252] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-03-17 18:17:43,253] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-03-17 18:17:53,983] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-03-17 18:18:03,511] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 18:18:09,035] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 18:18:14,565] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-03-17 18:18:16,568] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-03-17 18:18:17,266] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-03-17 18:18:18,298] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-03-17 18:18:19,330] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-03-17 18:18:19,333] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:18:19,336] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:18:19,504] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:18:19,505] INFO  org.appui.utils.Executor 读取第二列内容---：我的
+[2017-03-17 18:18:19,505] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:18:19,505] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:18:19,515] ERROR org.appui.pageObject.Login 没有找到我的页面元素
+[2017-03-17 18:18:19,517] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:18:19,517] INFO  org.appui.utils.Executor 读取第二列内容---：登录按钮
+[2017-03-17 18:18:19,517] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:18:19,517] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:18:19,517] ERROR org.appui.pageObject.Login 没有找到登录按钮页面元素
+[2017-03-17 18:18:19,518] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-03-17 18:18:19,518] INFO  org.appui.utils.Executor 读取第二列内容---：账号
+[2017-03-17 18:18:19,518] INFO  org.appui.utils.Executor 读取第三列内容---：13567114122
+[2017-03-17 18:18:19,518] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-03-17 18:18:19,519] ERROR org.appui.pageObject.Login 没有找到输入账号页面元素
+[2017-03-17 18:18:19,519] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-03-17 18:18:19,519] INFO  org.appui.utils.Executor 读取第二列内容---：密码
+[2017-03-17 18:18:19,519] INFO  org.appui.utils.Executor 读取第三列内容---：infinite2012
+[2017-03-17 18:18:19,520] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-03-17 18:18:19,520] ERROR org.appui.pageObject.Login 没有找到输入密码页面元素
+[2017-03-17 18:18:19,521] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:18:19,521] INFO  org.appui.utils.Executor 读取第二列内容---：提交按钮
+[2017-03-17 18:18:19,521] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:18:19,521] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:18:19,521] ERROR org.appui.pageObject.Login 没有找到提交按钮页面元素
+[2017-03-17 18:18:19,523] ERROR org.appui.pageObject.Login 没有找到用户名页面元素
+[2017-03-17 18:18:19,526] ERROR org.appui.utils.TestListener 0
+[2017-03-17 18:18:20,092] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-03-17 18:18:20,094] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-03-17 18:18:20,094] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-03-17 18:18:20,097] ERROR org.appui.utils.TestListener 0
+[2017-03-17 18:18:20,682] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-03-17 18:18:20,683] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-03-17 18:18:20,683] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-03-17 18:18:22,256] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-03-17 18:18:22,259] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-03-17 18:18:40,036] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-17 18:18:40,041] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-03-17 18:18:40,046] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-03-17 18:18:50,046] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-03-17 18:19:00,690] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-03-17 18:19:10,302] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 18:19:15,850] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 18:19:21,416] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-03-17 18:19:23,419] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-03-17 18:19:24,334] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-03-17 18:19:25,175] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-03-17 18:19:26,266] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-03-17 18:19:26,268] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:19:26,274] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:19:26,424] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:19:26,424] INFO  org.appui.utils.Executor 读取第二列内容---：我的
+[2017-03-17 18:19:26,424] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:19:26,424] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:19:26,430] ERROR org.appui.pageObject.Login 没有找到我的页面元素
+[2017-03-17 18:19:26,432] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:19:26,433] INFO  org.appui.utils.Executor 读取第二列内容---：登录按钮
+[2017-03-17 18:19:26,433] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:19:26,433] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:19:26,433] ERROR org.appui.pageObject.Login 没有找到登录按钮页面元素
+[2017-03-17 18:19:26,433] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-03-17 18:19:26,434] INFO  org.appui.utils.Executor 读取第二列内容---：账号
+[2017-03-17 18:19:26,434] INFO  org.appui.utils.Executor 读取第三列内容---：13567114122
+[2017-03-17 18:19:26,434] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-03-17 18:19:26,434] ERROR org.appui.pageObject.Login 没有找到输入账号页面元素
+[2017-03-17 18:19:26,434] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-03-17 18:19:26,434] INFO  org.appui.utils.Executor 读取第二列内容---：密码
+[2017-03-17 18:19:26,434] INFO  org.appui.utils.Executor 读取第三列内容---：infinite2012
+[2017-03-17 18:19:26,435] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-03-17 18:19:26,435] ERROR org.appui.pageObject.Login 没有找到输入密码页面元素
+[2017-03-17 18:19:26,435] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:19:26,435] INFO  org.appui.utils.Executor 读取第二列内容---：提交按钮
+[2017-03-17 18:19:26,436] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:19:26,436] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:19:26,436] ERROR org.appui.pageObject.Login 没有找到提交按钮页面元素
+[2017-03-17 18:19:26,436] ERROR org.appui.pageObject.Login 没有找到用户名页面元素
+[2017-03-17 18:19:26,438] ERROR org.appui.utils.TestListener 0
+[2017-03-17 18:19:27,043] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-03-17 18:19:27,045] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-03-17 18:19:27,045] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-03-17 18:19:27,047] ERROR org.appui.utils.TestListener 0
+[2017-03-17 18:19:27,822] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-03-17 18:19:27,827] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-03-17 18:19:27,827] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-03-17 18:19:29,468] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-03-17 18:19:29,470] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-03-17 18:20:24,141] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-17 18:20:24,146] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-03-17 18:20:24,149] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-03-17 18:20:34,150] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-03-17 18:20:45,097] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-03-17 18:20:54,678] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 18:21:00,200] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 18:21:05,751] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-03-17 18:21:07,754] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-03-17 18:21:08,594] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-03-17 18:21:09,505] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-03-17 18:21:10,646] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-03-17 18:21:10,649] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:21:10,653] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:21:10,853] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:21:10,853] INFO  org.appui.utils.Executor 读取第二列内容---：我的
+[2017-03-17 18:21:10,854] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:21:10,854] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:21:10,861] ERROR org.appui.pageObject.Login 没有找到我的页面元素
+[2017-03-17 18:21:10,863] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:21:10,863] INFO  org.appui.utils.Executor 读取第二列内容---：登录按钮
+[2017-03-17 18:21:10,863] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:21:10,863] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:21:10,863] ERROR org.appui.pageObject.Login 没有找到登录按钮页面元素
+[2017-03-17 18:21:10,864] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-03-17 18:21:10,864] INFO  org.appui.utils.Executor 读取第二列内容---：账号
+[2017-03-17 18:21:10,864] INFO  org.appui.utils.Executor 读取第三列内容---：13567114122
+[2017-03-17 18:21:10,864] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-03-17 18:21:10,864] ERROR org.appui.pageObject.Login 没有找到输入账号页面元素
+[2017-03-17 18:21:10,865] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-03-17 18:21:10,865] INFO  org.appui.utils.Executor 读取第二列内容---：密码
+[2017-03-17 18:21:10,865] INFO  org.appui.utils.Executor 读取第三列内容---：infinite2012
+[2017-03-17 18:21:10,865] INFO  org.appui.utils.Executor 第一列方法名:type
+[2017-03-17 18:21:10,865] ERROR org.appui.pageObject.Login 没有找到输入密码页面元素
+[2017-03-17 18:21:10,866] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-03-17 18:21:10,866] INFO  org.appui.utils.Executor 读取第二列内容---：提交按钮
+[2017-03-17 18:21:10,866] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-03-17 18:21:10,866] INFO  org.appui.utils.Executor 第一列方法名:click
+[2017-03-17 18:21:10,866] ERROR org.appui.pageObject.Login 没有找到提交按钮页面元素
+[2017-03-17 18:21:10,867] ERROR org.appui.pageObject.Login 没有找到用户名页面元素
+[2017-03-17 18:21:10,869] ERROR org.appui.utils.TestListener 0
+[2017-03-17 18:21:11,389] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-03-17 18:21:11,392] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-03-17 18:21:11,392] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-03-17 18:21:11,395] ERROR org.appui.utils.TestListener 0
+[2017-03-17 18:21:12,106] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-03-17 18:21:12,107] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-03-17 18:21:12,107] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-03-17 18:21:13,689] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-03-17 18:21:13,691] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-03-17 18:34:09,160] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-17 18:34:09,166] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-03-17 18:34:09,172] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-03-17 18:34:19,172] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-03-17 18:34:20,491] ERROR org.appui.utils.TestBaseCase appium环境配置失败
+[2017-03-17 18:34:20,761] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-03-17 18:34:29,769] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:34:29,771] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:34:29,776] ERROR org.appui.utils.TestListener 0
+[2017-03-17 18:40:21,685] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-17 18:40:21,689] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-03-17 18:40:21,696] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-03-17 18:40:31,696] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-03-17 18:40:33,016] ERROR org.appui.utils.TestBaseCase appium环境配置失败
+[2017-03-17 18:40:33,302] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-03-17 18:40:42,309] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:40:42,310] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-03-17 18:40:42,315] ERROR org.appui.utils.TestListener 0
+[2017-03-17 19:00:44,290] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-17 19:00:44,293] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-03-17 19:00:44,300] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-03-17 19:00:54,301] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-03-17 19:01:04,928] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-03-17 19:01:14,459] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 19:01:15,440] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-17 19:01:15,443] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-03-17 19:01:15,447] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-03-17 19:01:20,007] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-03-17 19:01:25,447] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-03-17 19:01:25,526] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-03-17 19:01:25,863] ERROR org.appui.utils.TestBaseCase appium环境配置失败
+[2017-03-17 19:01:26,206] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-03-17 19:01:27,528] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]

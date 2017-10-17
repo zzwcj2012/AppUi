@@ -1,0 +1,1162 @@
+[2017-02-24 10:34:52,425] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 10:34:52,430] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 10:34:52,433] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 10:35:02,434] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 10:35:13,071] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 10:35:22,648] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 10:35:28,202] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 10:35:33,731] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 10:35:35,737] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 10:35:36,619] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 10:35:37,489] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 10:35:38,595] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 10:35:38,597] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 10:35:38,601] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 10:35:38,912] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:39,829] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:41,479] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:42,109] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:42,696] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:44,243] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:44,801] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:45,369] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:45,987] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:47,400] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:47,955] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:48,522] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:49,084] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:50,276] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:50,834] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:51,448] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:51,996] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:53,220] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:53,847] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:54,405] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:54,980] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:56,272] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:56,826] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:57,421] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:57,981] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:59,278] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 10:35:59,331] INFO  org.appui.utils.ElementAction 超时无法定位页面元素
+[2017-02-24 10:36:00,025] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\2017-02-24 103559343.jpg
+[2017-02-24 10:36:00,026] INFO  org.appui.utils.ElementAction 2017-02-24 103559343
+[2017-02-24 10:36:00,028] ERROR org.appui.utils.TestListener 0
+[2017-02-24 10:36:00,601] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 10:36:00,603] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 10:36:00,603] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 10:36:00,606] ERROR org.appui.utils.TestListener 0
+[2017-02-24 10:36:01,328] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 10:36:01,330] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 10:36:01,330] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 10:36:01,403] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 10:36:01,404] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 10:36:01,424] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 10:36:04,424] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:05,313] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:05,889] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:06,616] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:08,221] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:08,899] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:09,577] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:10,162] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:11,379] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:12,094] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:12,801] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:14,223] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:14,895] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:15,468] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:16,032] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:17,253] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:17,851] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:18,448] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:19,016] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:20,252] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:20,819] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:21,430] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:22,010] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:23,363] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:23,940] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:24,561] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 10:36:24,696] INFO  org.appui.utils.ElementAction 超时无法定位页面元素
+[2017-02-24 10:36:25,309] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\2017-02-24 103624700.jpg
+[2017-02-24 10:36:25,309] INFO  org.appui.utils.ElementAction 2017-02-24 103624700
+[2017-02-24 10:36:25,311] ERROR org.appui.utils.TestListener 0
+[2017-02-24 10:36:25,929] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录失败用例:卡号输入不正确0.jpg
+[2017-02-24 10:36:25,931] ERROR org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--failed
+[2017-02-24 10:36:25,931] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 10:36:25,933] ERROR org.appui.utils.TestListener 0
+[2017-02-24 10:36:26,647] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录失败用例:卡号输入不正确0.jpg
+[2017-02-24 10:36:26,649] ERROR org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--failed
+[2017-02-24 10:36:26,649] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 10:36:26,698] ERROR org.appui.utils.TestListener 0
+[2017-02-24 10:36:27,339] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 10:36:27,341] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 10:36:27,341] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 10:36:27,343] ERROR org.appui.utils.TestListener 0
+[2017-02-24 10:36:28,002] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 10:36:28,006] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 10:36:28,006] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 10:36:29,512] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 10:36:29,514] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 12:10:43,277] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 12:10:43,282] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 12:10:43,285] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 12:10:53,285] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 12:11:03,675] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 12:11:13,247] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:11:18,780] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:11:24,330] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 12:11:26,332] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 12:11:27,141] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 12:11:28,038] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 12:11:29,080] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 12:11:29,082] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:11:29,089] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:11:29,307] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:30,245] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:31,729] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:32,381] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:32,954] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:33,503] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:34,695] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:35,257] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:35,848] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:36,431] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:37,683] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:38,249] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:38,820] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:39,383] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:40,722] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:41,289] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:41,867] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:42,450] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:43,680] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:44,352] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:44,909] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:45,576] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:46,766] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:47,316] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:47,939] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:48,491] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:49,686] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:11:49,741] INFO  org.appui.utils.ElementAction 超时无法定位页面元素
+[2017-02-24 12:11:50,406] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\2017-02-24 121149749.jpg
+[2017-02-24 12:11:50,406] INFO  org.appui.utils.ElementAction 2017-02-24 121149749
+[2017-02-24 12:11:50,408] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:11:50,994] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 12:11:50,997] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 12:11:50,997] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:11:51,000] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:11:51,609] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 12:11:51,611] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 12:11:51,611] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:11:51,685] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:11:51,686] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:11:51,698] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 12:11:54,698] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:11:55,704] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:11:56,290] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:11:56,885] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:11:57,485] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:11:58,752] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:11:59,396] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:00,051] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:00,660] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:01,789] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:02,386] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:03,093] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:03,681] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:04,733] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:05,330] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:05,917] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:06,523] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:07,715] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:08,303] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:09,026] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:09,627] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:10,738] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:11,344] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:12,034] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:13,711] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:14,289] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:14,921] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:12:14,994] INFO  org.appui.utils.ElementAction 超时无法定位页面元素
+[2017-02-24 12:12:15,718] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\2017-02-24 121214998.jpg
+[2017-02-24 12:12:15,718] INFO  org.appui.utils.ElementAction 2017-02-24 121214998
+[2017-02-24 12:12:15,719] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:12:16,388] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录失败用例:卡号输入不正确0.jpg
+[2017-02-24 12:12:16,390] ERROR org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--failed
+[2017-02-24 12:12:16,390] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:12:16,392] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:12:17,065] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录失败用例:卡号输入不正确0.jpg
+[2017-02-24 12:12:17,068] ERROR org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--failed
+[2017-02-24 12:12:17,068] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:12:17,121] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:12:17,685] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:12:17,688] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:12:17,688] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:12:17,690] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:12:18,314] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:12:18,316] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:12:18,316] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:12:19,818] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 12:12:19,820] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 12:13:45,972] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 12:13:45,977] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 12:13:45,981] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 12:13:55,981] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 12:14:06,267] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 12:14:15,814] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:14:21,354] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:14:26,930] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 12:14:28,932] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 12:14:29,675] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 12:14:30,624] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 12:14:31,753] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 12:14:31,756] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:14:31,760] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:14:32,050] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 12:14:32,729] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 12:14:32,730] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 12:14:35,747] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:14:36,154] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 12:14:36,154] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-02-24 12:14:41,857] INFO  org.appui.utils.ElementAction input输入：输入账号[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-02-24 12:14:41,857] INFO  org.appui.utils.ElementAction 查找元素：输入密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-02-24 12:14:47,057] INFO  org.appui.utils.ElementAction input输入：输入密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-02-24 12:14:47,057] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:14:48,057] INFO  org.appui.utils.ElementAction 查找元素：提交按钮方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-02-24 12:14:48,326] INFO  org.appui.utils.ElementAction click元素：提交按钮[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-02-24 12:14:48,330] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 12:14:48,330] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:14:48,332] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 12:14:48,333] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:14:48,417] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:14:48,418] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:14:48,434] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 12:14:51,434] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:14:51,863] INFO  org.appui.utils.ElementAction click元素：常用信息[By.name:旅客、地址、银行卡]成功！
+[2017-02-24 12:14:51,863] INFO  org.appui.utils.ElementAction 查找元素：常用银行卡方式[By.id:com.tongcheng.android:id/common_info_card]
+[2017-02-24 12:14:53,127] INFO  org.appui.utils.ElementAction click元素：常用银行卡[By.id:com.tongcheng.android:id/common_info_card]成功！
+[2017-02-24 12:14:53,127] INFO  org.appui.utils.ElementAction 查找元素：添加银行卡方式[By.id:com.tongcheng.android:id/add_card]
+[2017-02-24 12:14:55,307] INFO  org.appui.utils.ElementAction click元素：添加银行卡[By.id:com.tongcheng.android:id/add_card]成功！
+[2017-02-24 12:14:55,332] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:14:56,336] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:14:57,338] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:14:58,340] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:14:59,343] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:15:00,345] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:15:01,347] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:15:02,347] INFO  org.appui.utils.ElementAction 查找元素：卡号输入框方式[By.id:com.tongcheng.android:id/card_no]
+[2017-02-24 12:15:02,407] INFO  org.appui.utils.ElementAction 查找元素：下一步方式[By.id:com.tongcheng.android:id/next]
+[2017-02-24 12:15:02,658] INFO  org.appui.utils.ElementAction click元素：下一步[By.id:com.tongcheng.android:id/next]成功！
+[2017-02-24 12:15:02,659] INFO  org.appui.utils.ElementAction 等待4秒
+[2017-02-24 12:15:06,659] INFO  org.appui.utils.ElementAction 查找元素：卡号错误提示信息方式[By.id:com.tongcheng.android:id/dialog_common_content]
+[2017-02-24 12:15:06,689] INFO  org.appui.utils.TestBaseCase 卡号输错：您输入的卡号不正确，请重新输入
+[2017-02-24 12:15:06,690] INFO  org.appui.utils.ElementAction 查找元素：卡号错误提示信息方式[By.id:com.tongcheng.android:id/dialog_common_content]
+[2017-02-24 12:15:06,713] INFO  org.appui.utils.Assertion 验证是否出现预期的错误提示信息:卡号不正确:Assert验证：{实际值：您输入的卡号不正确，请重新输入,预期值：卡号不正确} 实际值是否包含预期值
+[2017-02-24 12:15:06,716] INFO  org.appui.utils.Assertion 【Assert验证  pass!】
+[2017-02-24 12:15:06,717] INFO  org.appui.utils.ElementAction 查找元素：知道了方式[By.id:com.tongcheng.android:id/dialog_common_button_right]
+[2017-02-24 12:15:09,844] INFO  org.appui.utils.ElementAction click元素：知道了[By.id:com.tongcheng.android:id/dialog_common_button_right]成功！
+[2017-02-24 12:15:09,846] INFO  org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--passed
+[2017-02-24 12:15:09,846] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:15:09,849] INFO  org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--passed
+[2017-02-24 12:15:09,849] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:15:09,903] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:15:10,160] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:15:10,162] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:15:10,162] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:15:10,165] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:15:10,432] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:15:10,434] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:15:10,434] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:15:11,895] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 12:15:11,898] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 12:15:29,458] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 12:15:29,463] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 12:15:29,466] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 12:15:39,467] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 12:15:49,901] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 12:15:59,447] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:16:04,963] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:16:10,495] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 12:16:12,497] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 12:16:13,325] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 12:16:14,153] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 12:16:15,265] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 12:16:15,267] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:16:15,272] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:16:15,523] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 12:16:16,207] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 12:16:16,207] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 12:16:19,223] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:16:19,680] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 12:16:19,681] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-02-24 12:16:25,556] INFO  org.appui.utils.ElementAction input输入：输入账号[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-02-24 12:16:25,556] INFO  org.appui.utils.ElementAction 查找元素：输入密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-02-24 12:16:30,830] INFO  org.appui.utils.ElementAction input输入：输入密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-02-24 12:16:30,830] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:16:31,830] INFO  org.appui.utils.ElementAction 查找元素：提交按钮方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-02-24 12:16:32,124] INFO  org.appui.utils.ElementAction click元素：提交按钮[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-02-24 12:16:32,126] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 12:16:32,126] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:16:32,129] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 12:16:32,129] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:16:32,213] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:16:32,214] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:16:32,231] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 12:16:35,231] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:16:35,595] INFO  org.appui.utils.ElementAction click元素：常用信息[By.name:旅客、地址、银行卡]成功！
+[2017-02-24 12:16:35,596] INFO  org.appui.utils.ElementAction 查找元素：常用银行卡方式[By.id:com.tongcheng.android:id/common_info_card]
+[2017-02-24 12:16:36,857] INFO  org.appui.utils.ElementAction click元素：常用银行卡[By.id:com.tongcheng.android:id/common_info_card]成功！
+[2017-02-24 12:16:36,857] INFO  org.appui.utils.ElementAction 查找元素：添加银行卡方式[By.id:com.tongcheng.android:id/add_card]
+[2017-02-24 12:16:38,625] INFO  org.appui.utils.ElementAction click元素：添加银行卡[By.id:com.tongcheng.android:id/add_card]成功！
+[2017-02-24 12:16:38,647] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:16:39,650] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:16:40,652] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:16:41,655] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:16:42,657] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:16:43,659] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:16:44,661] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:16:45,661] INFO  org.appui.utils.ElementAction 查找元素：卡号输入框方式[By.id:com.tongcheng.android:id/card_no]
+[2017-02-24 12:16:45,697] INFO  org.appui.utils.ElementAction 查找元素：下一步方式[By.id:com.tongcheng.android:id/next]
+[2017-02-24 12:16:45,959] INFO  org.appui.utils.ElementAction click元素：下一步[By.id:com.tongcheng.android:id/next]成功！
+[2017-02-24 12:16:45,959] INFO  org.appui.utils.ElementAction 等待4秒
+[2017-02-24 12:16:49,960] INFO  org.appui.utils.ElementAction 查找元素：卡号错误提示信息方式[By.id:com.tongcheng.android:id/dialog_common_content]
+[2017-02-24 12:16:49,986] INFO  org.appui.utils.TestBaseCase 卡号输错：您输入的卡号不正确，请重新输入
+[2017-02-24 12:16:49,986] INFO  org.appui.utils.ElementAction 查找元素：卡号错误提示信息方式[By.id:com.tongcheng.android:id/dialog_common_content]
+[2017-02-24 12:16:50,005] INFO  org.appui.utils.Assertion 验证是否出现预期的错误提示信息:卡号不正确:Assert验证：{实际值：您输入的卡号不正确，请重新输入,预期值：卡号不正确} 实际值是否包含预期值
+[2017-02-24 12:16:50,007] INFO  org.appui.utils.Assertion 【Assert验证  pass!】
+[2017-02-24 12:16:50,007] INFO  org.appui.utils.ElementAction 查找元素：知道了方式[By.id:com.tongcheng.android:id/dialog_common_button_right]
+[2017-02-24 12:16:53,133] INFO  org.appui.utils.ElementAction click元素：知道了[By.id:com.tongcheng.android:id/dialog_common_button_right]成功！
+[2017-02-24 12:16:53,136] INFO  org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--passed
+[2017-02-24 12:16:53,136] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:16:53,139] INFO  org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--passed
+[2017-02-24 12:16:53,139] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:16:53,192] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:16:53,460] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:16:53,461] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:16:53,462] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:16:53,464] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:16:53,779] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:16:53,782] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:16:53,782] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:16:55,234] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 12:16:55,236] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 12:17:14,251] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 12:17:14,254] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 12:17:14,258] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 12:17:24,258] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 12:17:34,699] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 12:17:44,212] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:17:49,731] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:17:55,266] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 12:17:57,268] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 12:17:58,108] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 12:17:58,918] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 12:18:00,038] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 12:18:00,040] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:18:00,043] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:18:00,337] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:01,353] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:02,771] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:03,418] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:04,096] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:04,650] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:05,691] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:06,263] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:06,815] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:07,480] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:08,722] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:09,284] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:09,852] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:10,411] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:11,728] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:12,282] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:12,836] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:13,391] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:14,691] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:15,276] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:15,841] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:16,396] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:17,698] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:18,247] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:18,798] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:19,354] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:20,751] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:18:20,856] INFO  org.appui.utils.ElementAction 超时无法定位页面元素
+[2017-02-24 12:18:21,532] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\2017-02-24 121820866.jpg
+[2017-02-24 12:18:21,532] INFO  org.appui.utils.ElementAction 2017-02-24 121820866
+[2017-02-24 12:18:21,535] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:18:22,244] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 12:18:22,246] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 12:18:22,246] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:18:22,249] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:18:23,049] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 12:18:23,051] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 12:18:23,051] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:18:23,109] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:18:23,110] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:18:23,123] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 12:18:26,123] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:26,818] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:27,532] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:28,185] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:29,672] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:30,428] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:31,029] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:31,599] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:32,787] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:33,553] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:34,269] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:35,724] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:36,302] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:36,962] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:37,624] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:38,761] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:39,371] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:40,162] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:41,845] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:42,511] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:43,139] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:44,699] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:45,402] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:45,990] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:46,574] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:18:47,282] INFO  org.appui.utils.ElementAction 超时无法定位页面元素
+[2017-02-24 12:18:47,893] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\2017-02-24 121847286.jpg
+[2017-02-24 12:18:47,893] INFO  org.appui.utils.ElementAction 2017-02-24 121847286
+[2017-02-24 12:18:47,895] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:18:48,508] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录失败用例:卡号输入不正确0.jpg
+[2017-02-24 12:18:48,511] ERROR org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--failed
+[2017-02-24 12:18:48,511] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:18:48,513] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:18:49,152] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录失败用例:卡号输入不正确0.jpg
+[2017-02-24 12:18:49,154] ERROR org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--failed
+[2017-02-24 12:18:49,154] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:18:49,212] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:18:50,167] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:18:50,169] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:18:50,170] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:18:50,171] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:18:50,802] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:18:50,804] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:18:50,804] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:18:52,236] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 12:18:52,238] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 12:22:45,896] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 12:22:45,900] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 12:22:45,904] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 12:22:55,905] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 12:23:06,294] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 12:23:14,738] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 12:23:14,742] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 12:23:14,745] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 12:23:15,847] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:23:21,363] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:23:24,746] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 12:23:25,097] ERROR org.appui.utils.TestBaseCase appium环境配置失败
+[2017-02-24 12:23:25,101] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 12:23:26,878] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 12:23:28,880] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 12:23:29,660] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 12:23:30,571] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 12:23:31,651] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 12:23:31,657] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:23:31,665] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:23:34,108] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:23:34,110] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:23:34,115] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:26:20,591] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 12:26:20,594] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 12:26:20,599] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 12:26:30,602] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 12:26:40,935] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 12:26:50,500] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:26:56,031] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:27:01,561] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 12:27:03,564] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 12:27:04,360] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 12:27:05,257] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 12:27:06,213] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 12:27:06,215] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:27:06,222] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:27:06,436] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 12:27:06,946] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 12:27:06,947] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 12:27:09,967] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:27:10,463] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 12:27:10,463] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-02-24 12:27:16,326] INFO  org.appui.utils.ElementAction input输入：输入账号[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-02-24 12:27:16,326] INFO  org.appui.utils.ElementAction 查找元素：输入密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-02-24 12:27:21,499] INFO  org.appui.utils.ElementAction input输入：输入密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-02-24 12:27:21,499] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:22,499] INFO  org.appui.utils.ElementAction 查找元素：提交按钮方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-02-24 12:27:22,787] INFO  org.appui.utils.ElementAction click元素：提交按钮[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-02-24 12:27:22,789] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 12:27:22,790] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:27:22,795] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 12:27:22,795] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:27:22,923] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:27:22,924] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:27:22,947] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 12:27:25,947] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:27:26,375] INFO  org.appui.utils.ElementAction click元素：常用信息[By.name:旅客、地址、银行卡]成功！
+[2017-02-24 12:27:26,376] INFO  org.appui.utils.ElementAction 查找元素：常用银行卡方式[By.id:com.tongcheng.android:id/common_info_card]
+[2017-02-24 12:27:27,640] INFO  org.appui.utils.ElementAction click元素：常用银行卡[By.id:com.tongcheng.android:id/common_info_card]成功！
+[2017-02-24 12:27:27,640] INFO  org.appui.utils.ElementAction 查找元素：添加银行卡方式[By.id:com.tongcheng.android:id/add_card]
+[2017-02-24 12:27:29,425] INFO  org.appui.utils.ElementAction click元素：添加银行卡[By.id:com.tongcheng.android:id/add_card]成功！
+[2017-02-24 12:27:29,447] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:30,451] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:31,453] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:32,457] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:33,459] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:34,462] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:35,465] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:36,465] INFO  org.appui.utils.ElementAction 查找元素：卡号输入框方式[By.id:com.tongcheng.android:id/card_no]
+[2017-02-24 12:27:39,666] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:40,668] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:41,672] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:42,674] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:43,677] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:44,679] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:45,682] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:27:46,682] INFO  org.appui.utils.ElementAction 查找元素：卡号输入框方式[By.id:com.tongcheng.android:id/card_no]
+[2017-02-24 12:27:46,713] INFO  org.appui.utils.ElementAction 查找元素：下一步方式[By.id:com.tongcheng.android:id/next]
+[2017-02-24 12:27:46,958] INFO  org.appui.utils.ElementAction click元素：下一步[By.id:com.tongcheng.android:id/next]成功！
+[2017-02-24 12:27:46,958] INFO  org.appui.utils.ElementAction 等待4秒
+[2017-02-24 12:27:50,958] INFO  org.appui.utils.ElementAction 查找元素：卡号错误提示信息方式[By.id:com.tongcheng.android:id/dialog_common_content]
+[2017-02-24 12:27:50,982] INFO  org.appui.utils.TestBaseCase 卡号输错：您输入的卡号不正确，请重新输入
+[2017-02-24 12:27:50,982] INFO  org.appui.utils.ElementAction 查找元素：卡号错误提示信息方式[By.id:com.tongcheng.android:id/dialog_common_content]
+[2017-02-24 12:27:51,000] INFO  org.appui.utils.Assertion 验证是否出现预期的错误提示信息:卡号不正确:Assert验证：{实际值：您输入的卡号不正确，请重新输入,预期值：卡号不正确} 实际值是否包含预期值
+[2017-02-24 12:27:51,001] INFO  org.appui.utils.Assertion 【Assert验证  pass!】
+[2017-02-24 12:27:51,002] INFO  org.appui.utils.ElementAction 查找元素：知道了方式[By.id:com.tongcheng.android:id/dialog_common_button_right]
+[2017-02-24 12:27:54,139] INFO  org.appui.utils.ElementAction click元素：知道了[By.id:com.tongcheng.android:id/dialog_common_button_right]成功！
+[2017-02-24 12:27:54,141] INFO  org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--passed
+[2017-02-24 12:27:54,141] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:27:54,144] INFO  org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--passed
+[2017-02-24 12:27:54,144] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:27:54,219] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:27:54,509] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:27:54,511] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:27:54,511] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:27:54,515] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:27:54,797] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:27:54,798] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:27:54,798] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:27:56,293] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 12:27:56,295] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 12:28:35,008] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 12:28:35,013] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 12:28:35,017] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 12:28:45,017] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 12:28:55,553] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 12:29:05,116] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:29:10,648] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 12:29:16,179] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 12:29:18,181] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 12:29:19,011] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 12:29:20,169] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 12:29:21,376] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 12:29:21,379] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:29:21,384] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 12:29:21,601] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 12:29:22,088] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 12:29:22,089] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 12:29:25,106] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 12:29:25,432] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 12:29:25,433] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-02-24 12:29:31,114] INFO  org.appui.utils.ElementAction input输入：输入账号[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-02-24 12:29:31,114] INFO  org.appui.utils.ElementAction 查找元素：输入密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-02-24 12:29:36,290] INFO  org.appui.utils.ElementAction input输入：输入密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-02-24 12:29:36,290] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:37,290] INFO  org.appui.utils.ElementAction 查找元素：提交按钮方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-02-24 12:29:37,563] INFO  org.appui.utils.ElementAction click元素：提交按钮[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-02-24 12:29:37,566] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 12:29:37,566] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:29:37,569] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 12:29:37,569] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 12:29:37,665] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:29:37,666] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---start
+[2017-02-24 12:29:37,687] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 12:29:40,687] INFO  org.appui.utils.ElementAction 查找元素：常用信息方式[By.name:旅客、地址、银行卡]
+[2017-02-24 12:29:41,175] INFO  org.appui.utils.ElementAction click元素：常用信息[By.name:旅客、地址、银行卡]成功！
+[2017-02-24 12:29:41,175] INFO  org.appui.utils.ElementAction 查找元素：常用银行卡方式[By.id:com.tongcheng.android:id/common_info_card]
+[2017-02-24 12:29:42,442] INFO  org.appui.utils.ElementAction click元素：常用银行卡[By.id:com.tongcheng.android:id/common_info_card]成功！
+[2017-02-24 12:29:42,442] INFO  org.appui.utils.ElementAction 查找元素：添加银行卡方式[By.id:com.tongcheng.android:id/add_card]
+[2017-02-24 12:29:44,309] INFO  org.appui.utils.ElementAction click元素：添加银行卡[By.id:com.tongcheng.android:id/add_card]成功！
+[2017-02-24 12:29:44,330] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:45,332] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:46,334] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:47,337] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:48,340] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:49,343] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:50,345] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:51,346] INFO  org.appui.utils.ElementAction 查找元素：卡号输入框方式[By.id:com.tongcheng.android:id/card_no]
+[2017-02-24 12:29:54,582] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:55,586] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:56,589] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:57,592] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:58,594] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:29:59,596] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:30:00,599] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 12:30:01,600] INFO  org.appui.utils.ElementAction 查找元素：卡号输入框方式[By.id:com.tongcheng.android:id/card_no]
+[2017-02-24 12:30:01,636] INFO  org.appui.utils.ElementAction 查找元素：下一步方式[By.id:com.tongcheng.android:id/next]
+[2017-02-24 12:30:01,892] INFO  org.appui.utils.ElementAction click元素：下一步[By.id:com.tongcheng.android:id/next]成功！
+[2017-02-24 12:30:01,892] INFO  org.appui.utils.ElementAction 等待4秒
+[2017-02-24 12:30:05,892] INFO  org.appui.utils.ElementAction 查找元素：卡号错误提示信息方式[By.id:com.tongcheng.android:id/dialog_common_content]
+[2017-02-24 12:30:05,924] INFO  org.appui.utils.TestBaseCase 卡号输错：您输入的卡号不正确，请重新输入
+[2017-02-24 12:30:05,924] INFO  org.appui.utils.ElementAction 查找元素：卡号错误提示信息方式[By.id:com.tongcheng.android:id/dialog_common_content]
+[2017-02-24 12:30:05,953] INFO  org.appui.utils.Assertion 验证是否出现预期的错误提示信息:卡号不正确:Assert验证：{实际值：您输入的卡号不正确，请重新输入,预期值：卡号不正确} 实际值是否包含预期值
+[2017-02-24 12:30:05,954] INFO  org.appui.utils.Assertion 【Assert验证  pass!】
+[2017-02-24 12:30:05,955] INFO  org.appui.utils.ElementAction 查找元素：知道了方式[By.id:com.tongcheng.android:id/dialog_common_button_right]
+[2017-02-24 12:30:09,081] INFO  org.appui.utils.ElementAction click元素：知道了[By.id:com.tongcheng.android:id/dialog_common_button_right]成功！
+[2017-02-24 12:30:09,083] INFO  org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--passed
+[2017-02-24 12:30:09,083] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:30:09,085] INFO  org.appui.utils.TestListener 测试用例: 登录失败用例:卡号输入不正确--passed
+[2017-02-24 12:30:09,085] INFO  org.appui.utils.TestListener 测试用例:登录失败用例:卡号输入不正确---end
+[2017-02-24 12:30:09,142] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:30:09,424] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:30:09,426] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:30:09,426] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:30:09,428] ERROR org.appui.utils.TestListener 0
+[2017-02-24 12:30:09,719] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录成功用例:卡号输入正确0.jpg
+[2017-02-24 12:30:09,721] ERROR org.appui.utils.TestListener 测试用例: 登录成功用例:卡号输入正确--failed
+[2017-02-24 12:30:09,721] INFO  org.appui.utils.TestListener 测试用例:登录成功用例:卡号输入正确---end
+[2017-02-24 12:30:11,213] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 12:30:11,216] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 12:34:35,838] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 14:23:29,355] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 14:23:29,359] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 14:23:29,363] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 14:23:39,364] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 14:23:50,662] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 14:24:00,230] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 14:24:05,759] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 14:24:11,310] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 14:24:13,312] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 14:24:14,139] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 14:24:15,069] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 14:24:16,192] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 14:24:16,195] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 14:24:16,202] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 14:24:16,436] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 14:24:16,983] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 14:24:16,983] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 14:24:19,998] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 14:24:20,377] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 14:24:20,377] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-02-24 14:24:26,082] INFO  org.appui.utils.ElementAction input输入：输入账号[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-02-24 14:24:26,083] INFO  org.appui.utils.ElementAction 查找元素：输入密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-02-24 14:24:31,273] INFO  org.appui.utils.ElementAction input输入：输入密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-02-24 14:24:31,273] INFO  org.appui.utils.ElementAction 等待1秒
+[2017-02-24 14:24:32,273] INFO  org.appui.utils.ElementAction 查找元素：提交按钮方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-02-24 14:24:32,527] INFO  org.appui.utils.ElementAction click元素：提交按钮[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-02-24 14:24:32,529] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 14:24:32,529] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 14:24:32,532] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 14:24:32,532] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 14:24:34,761] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 14:24:34,764] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 14:31:28,604] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 14:31:28,608] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 14:31:28,612] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 14:31:38,612] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 14:31:49,415] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 14:31:59,042] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 14:32:04,676] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 14:32:10,227] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 14:32:12,230] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 14:32:13,024] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 14:32:14,127] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 14:32:15,227] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 14:32:15,229] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 14:32:15,233] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 14:32:15,498] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 14:32:15,877] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 14:32:15,877] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 14:32:18,881] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 14:32:18,881] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 14:32:18,884] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 14:32:18,884] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 14:32:20,614] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 14:32:20,616] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 14:43:11,412] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 14:43:11,415] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 14:43:11,419] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 14:43:21,419] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 14:43:32,339] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 14:43:41,893] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 14:43:47,443] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 14:43:52,958] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 14:43:54,961] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 14:43:55,768] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 14:43:56,717] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 14:43:57,810] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 14:43:57,813] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 14:43:57,821] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 14:43:58,065] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 14:43:58,578] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 14:43:58,578] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 14:54:21,748] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 14:54:21,754] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 14:54:21,762] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 14:54:31,762] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 14:54:32,094] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 14:54:32,098] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 14:54:32,104] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 14:54:42,104] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 14:54:42,649] ERROR org.appui.utils.TestBaseCase appium环境配置失败
+[2017-02-24 14:54:42,654] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 14:54:42,666] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 14:54:51,662] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 14:54:51,663] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 14:54:51,670] ERROR org.appui.utils.TestListener 0
+[2017-02-24 14:54:52,246] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 14:54:57,761] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 14:55:03,310] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 14:55:05,313] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 14:55:06,043] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 14:55:07,013] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 14:55:08,093] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 14:55:08,096] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 14:55:08,103] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 14:55:08,320] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 14:55:08,792] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 14:55:08,793] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 14:55:11,797] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 14:55:11,797] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 14:55:11,799] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 14:55:11,800] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 14:55:13,680] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 14:55:13,682] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 15:25:54,344] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 15:25:54,347] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 15:25:54,351] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 15:26:04,351] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 15:26:14,817] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 15:26:24,377] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:26:29,891] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:26:35,423] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 15:26:37,425] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 15:26:38,216] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 15:26:39,102] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 15:26:40,102] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 15:26:40,106] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:26:40,113] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:26:40,347] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:26:41,038] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:26:41,040] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:26:41,040] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:26:41,051] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:26:41,816] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:26:41,818] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:26:41,818] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:26:43,516] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 15:26:43,518] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 15:27:39,958] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 15:27:39,962] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 15:27:39,966] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 15:27:49,966] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 15:28:00,621] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 15:28:10,181] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:28:15,742] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:28:21,311] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 15:28:23,314] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 15:28:24,215] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 15:28:25,052] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 15:28:26,176] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 15:28:26,179] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:28:26,188] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:28:26,410] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:28:27,096] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:28:27,098] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:28:27,098] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:28:27,102] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:28:27,883] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:28:27,884] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:28:27,884] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:28:29,627] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 15:28:29,630] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 15:42:26,499] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 15:42:26,503] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 15:42:26,506] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 15:42:36,507] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 15:42:47,164] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 15:42:56,708] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:43:02,225] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:43:07,760] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 15:43:09,762] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 15:43:10,457] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 15:43:11,481] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 15:43:12,558] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 15:43:12,562] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:43:12,569] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:43:12,786] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:43:13,457] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:43:13,459] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:43:13,459] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:43:13,462] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:43:14,218] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:43:14,219] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:43:14,219] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:43:16,025] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 15:43:16,028] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 15:46:28,968] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 15:46:28,972] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 15:46:28,978] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 15:46:38,978] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 15:46:49,565] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 15:46:59,130] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:47:04,658] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:47:10,196] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 15:47:12,198] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 15:47:13,027] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 15:47:13,921] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 15:47:15,048] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 15:47:15,051] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:47:15,057] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:47:15,377] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 15:47:16,057] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 15:47:16,057] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 15:47:19,060] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:47:19,441] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:47:19,442] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:47:19,443] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:47:19,446] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:47:19,817] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:47:19,819] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:47:19,819] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:47:21,538] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 15:47:21,541] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 15:54:57,990] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 15:54:57,995] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 15:54:57,998] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 15:55:07,998] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 15:55:19,018] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 15:55:28,592] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:55:34,143] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:55:39,690] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 15:55:41,693] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 15:55:42,537] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 15:55:43,487] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 15:55:44,574] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 15:55:44,578] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:55:44,586] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:55:44,828] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 15:55:45,220] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 15:55:45,220] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 15:55:48,221] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 15:55:48,540] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 15:55:48,544] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:55:48,960] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:55:48,962] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:55:48,962] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:55:48,966] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:55:49,298] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:55:49,300] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:55:49,300] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:55:50,930] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 15:55:50,932] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 15:58:25,521] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 15:58:25,526] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 15:58:25,530] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 15:58:35,530] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 15:58:45,930] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 15:58:55,475] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:59:01,010] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 15:59:06,540] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 15:59:08,544] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 15:59:09,315] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 15:59:10,247] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 15:59:11,383] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 15:59:11,386] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:59:11,390] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 15:59:11,688] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 15:59:12,385] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 15:59:12,385] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 15:59:15,386] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 15:59:15,769] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 15:59:15,773] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:59:16,168] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:59:16,170] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:59:16,170] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:59:16,173] ERROR org.appui.utils.TestListener 0
+[2017-02-24 15:59:16,464] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 15:59:16,465] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 15:59:16,466] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 15:59:18,198] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 15:59:18,200] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 16:12:21,200] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 16:12:21,204] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 16:12:21,207] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 16:12:31,207] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 16:12:41,997] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 16:12:51,559] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:12:57,091] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:13:02,647] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 16:13:04,650] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 16:13:05,839] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 16:13:06,378] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 16:13:07,358] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 16:13:07,364] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:13:07,370] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:14:13,359] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 16:14:13,364] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 16:14:13,367] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 16:14:23,367] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 16:14:34,251] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 16:14:43,772] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:14:49,311] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:14:54,908] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 16:14:56,911] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 16:14:57,867] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 16:14:58,733] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 16:14:59,823] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 16:14:59,826] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:14:59,834] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:15:54,791] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 16:19:11,249] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 16:19:11,253] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 16:19:11,256] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 16:19:21,257] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 16:19:33,045] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 16:19:42,633] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:19:48,209] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:19:53,774] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 16:19:55,776] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 16:19:56,723] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 16:19:57,602] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 16:19:58,660] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 16:19:58,664] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:19:58,670] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:19:58,888] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 16:19:59,338] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 16:19:59,338] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 16:20:02,339] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 16:20:02,820] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 16:20:02,823] ERROR org.appui.utils.TestListener 0
+[2017-02-24 16:20:03,250] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 16:20:03,252] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 16:20:03,252] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 16:20:03,256] ERROR org.appui.utils.TestListener 0
+[2017-02-24 16:20:03,607] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 16:20:03,609] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 16:20:03,609] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 16:20:05,371] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 16:20:05,373] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 16:22:48,502] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 16:22:48,506] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 16:22:48,510] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 16:22:58,512] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 16:23:10,404] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 16:23:19,967] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:23:25,527] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:23:31,058] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 16:23:33,060] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 16:23:33,770] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 16:23:34,872] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 16:23:35,889] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 16:23:35,900] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:23:35,909] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:23:36,211] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 16:23:36,688] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 16:23:36,689] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 16:23:39,689] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 16:23:40,086] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 16:23:40,087] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-02-24 16:23:45,761] INFO  org.appui.utils.ElementAction input输入：输入账号[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-02-24 16:23:45,765] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 16:23:45,766] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 16:23:45,769] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 16:23:45,769] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 16:23:47,617] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 16:23:47,619] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 16:34:23,239] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 16:34:23,245] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 16:34:23,249] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 16:34:33,249] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 16:34:43,851] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 16:34:53,428] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:34:58,976] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:35:04,512] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 16:35:06,515] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 16:35:07,361] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 16:35:08,266] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 16:35:09,367] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 16:35:09,370] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:35:09,375] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:35:09,663] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 16:35:10,385] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 16:35:10,385] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 16:35:13,386] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 16:35:13,757] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 16:35:13,757] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-02-24 16:35:19,517] INFO  org.appui.utils.ElementAction input输入：输入账号[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-02-24 16:35:19,518] INFO  org.appui.utils.ElementAction 查找元素：输入密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-02-24 16:35:24,789] INFO  org.appui.utils.ElementAction input输入：输入密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-02-24 16:35:24,789] INFO  org.appui.utils.ElementAction 查找元素：提交按钮方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-02-24 16:35:25,570] INFO  org.appui.utils.ElementAction click元素：提交按钮[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-02-24 16:35:25,573] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 16:35:25,573] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 16:35:25,575] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 16:35:25,576] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 16:35:27,825] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 16:35:27,828] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 16:37:32,569] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 16:37:32,573] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 16:37:32,576] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 16:37:42,577] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 16:37:53,144] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 16:38:02,729] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:38:08,308] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 16:38:13,860] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 16:38:15,862] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 16:38:16,668] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 16:38:17,648] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 16:38:18,692] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 16:38:18,695] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:38:18,704] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 16:38:18,915] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 16:38:19,419] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 16:38:19,419] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 16:38:22,419] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 16:38:22,776] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 16:38:22,777] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-02-24 16:38:28,560] INFO  org.appui.utils.ElementAction input输入：输入账号[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-02-24 16:38:28,560] INFO  org.appui.utils.ElementAction 查找元素：输入密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-02-24 16:38:33,742] INFO  org.appui.utils.ElementAction input输入：输入密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-02-24 16:38:33,742] INFO  org.appui.utils.ElementAction 查找元素：提交按钮方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-02-24 16:38:34,520] INFO  org.appui.utils.ElementAction click元素：提交按钮[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-02-24 16:38:34,523] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 16:38:34,523] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 16:38:34,525] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 16:38:34,526] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 16:38:36,616] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 16:38:36,618] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 16:59:35,468] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 16:59:35,472] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 16:59:35,476] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 16:59:45,477] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 16:59:56,463] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 17:00:06,006] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 17:00:11,525] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 17:00:17,045] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 17:00:19,048] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 17:00:19,814] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 17:00:20,779] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 17:00:21,863] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 17:00:21,869] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 17:00:21,878] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 17:00:22,106] INFO  org.appui.utils.Executor 读取第一列内容:点击
+[2017-02-24 17:00:22,106] INFO  org.appui.utils.Executor 读取第二列内容:我的
+[2017-02-24 17:00:22,106] INFO  org.appui.utils.Executor 读取第三列内容:
+[2017-02-24 17:00:22,106] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 17:00:22,635] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 17:00:22,635] INFO  org.appui.utils.Executor 读取第一列内容:等待
+[2017-02-24 17:00:22,636] INFO  org.appui.utils.Executor 读取第二列内容:3秒
+[2017-02-24 17:00:22,636] INFO  org.appui.utils.Executor 读取第三列内容:
+[2017-02-24 17:00:22,636] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 17:00:25,636] INFO  org.appui.utils.Executor 读取第一列内容:点击
+[2017-02-24 17:00:25,636] INFO  org.appui.utils.Executor 读取第二列内容:登录按钮
+[2017-02-24 17:00:25,636] INFO  org.appui.utils.Executor 读取第三列内容:
+[2017-02-24 17:00:25,637] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 17:00:26,011] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 17:00:26,011] INFO  org.appui.utils.Executor 读取第一列内容:输入
+[2017-02-24 17:00:26,011] INFO  org.appui.utils.Executor 读取第二列内容:账号
+[2017-02-24 17:00:26,011] INFO  org.appui.utils.Executor 读取第三列内容:13567114122
+[2017-02-24 17:00:26,011] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-02-24 17:00:31,863] INFO  org.appui.utils.ElementAction input输入：输入账号[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-02-24 17:00:31,864] INFO  org.appui.utils.Executor 读取第一列内容:输入
+[2017-02-24 17:00:31,864] INFO  org.appui.utils.Executor 读取第二列内容:密码
+[2017-02-24 17:00:31,864] INFO  org.appui.utils.Executor 读取第三列内容:infinite2012
+[2017-02-24 17:00:31,864] INFO  org.appui.utils.ElementAction 查找元素：输入密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-02-24 17:00:37,051] INFO  org.appui.utils.ElementAction input输入：输入密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-02-24 17:00:37,052] INFO  org.appui.utils.Executor 读取第一列内容:点击
+[2017-02-24 17:00:37,052] INFO  org.appui.utils.Executor 读取第二列内容:提交按钮
+[2017-02-24 17:00:37,052] INFO  org.appui.utils.Executor 读取第三列内容:
+[2017-02-24 17:00:37,052] INFO  org.appui.utils.ElementAction 查找元素：提交按钮方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-02-24 17:00:37,855] INFO  org.appui.utils.ElementAction click元素：提交按钮[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-02-24 17:00:37,857] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 17:00:37,858] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 17:00:37,860] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 17:00:37,860] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 17:00:40,277] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 17:00:40,280] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 17:01:07,764] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 17:01:07,769] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 17:01:07,773] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 17:01:17,773] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 17:01:28,570] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 17:01:38,194] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 17:01:43,760] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 17:01:49,326] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 17:01:51,329] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 17:01:52,174] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 17:01:53,158] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 17:01:54,168] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 17:01:54,172] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 17:01:54,177] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 17:01:54,416] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-02-24 17:01:54,416] INFO  org.appui.utils.Executor 读取第二列内容---：我的
+[2017-02-24 17:01:54,417] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-02-24 17:01:54,417] INFO  org.appui.utils.ElementAction 查找元素：我的方式[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]
+[2017-02-24 17:01:54,933] INFO  org.appui.utils.ElementAction click元素：我的[By.xpath://android.widget.FrameLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.ImageView[1]]成功！
+[2017-02-24 17:01:54,933] INFO  org.appui.utils.Executor 读取第一列内容---：等待
+[2017-02-24 17:01:54,934] INFO  org.appui.utils.Executor 读取第二列内容---：3秒
+[2017-02-24 17:01:54,934] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-02-24 17:01:54,934] INFO  org.appui.utils.ElementAction 等待3秒
+[2017-02-24 17:01:57,934] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-02-24 17:01:57,934] INFO  org.appui.utils.Executor 读取第二列内容---：登录按钮
+[2017-02-24 17:01:57,934] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-02-24 17:01:57,934] INFO  org.appui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.tongcheng.android:id/btn_mytc_login]
+[2017-02-24 17:01:58,324] INFO  org.appui.utils.ElementAction click元素：登录按钮[By.id:com.tongcheng.android:id/btn_mytc_login]成功！
+[2017-02-24 17:01:58,324] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-02-24 17:01:58,325] INFO  org.appui.utils.Executor 读取第二列内容---：账号
+[2017-02-24 17:01:58,325] INFO  org.appui.utils.Executor 读取第三列内容---：13567114122
+[2017-02-24 17:01:58,325] INFO  org.appui.utils.ElementAction 查找元素：输入账号方式[By.id:com.tongcheng.android:id/et_login_static_account_input]
+[2017-02-24 17:02:03,994] INFO  org.appui.utils.ElementAction input输入：输入账号[By.id:com.tongcheng.android:id/et_login_static_account_input  value:*******]
+[2017-02-24 17:02:03,994] INFO  org.appui.utils.Executor 读取第一列内容---：输入
+[2017-02-24 17:02:03,994] INFO  org.appui.utils.Executor 读取第二列内容---：密码
+[2017-02-24 17:02:03,994] INFO  org.appui.utils.Executor 读取第三列内容---：infinite2012
+[2017-02-24 17:02:03,994] INFO  org.appui.utils.ElementAction 查找元素：输入密码方式[By.id:com.tongcheng.android:id/et_login_static_password_input]
+[2017-02-24 17:02:09,177] INFO  org.appui.utils.ElementAction input输入：输入密码[By.id:com.tongcheng.android:id/et_login_static_password_input  value:*******]
+[2017-02-24 17:02:09,177] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-02-24 17:02:09,177] INFO  org.appui.utils.Executor 读取第二列内容---：提交按钮
+[2017-02-24 17:02:09,177] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-02-24 17:02:09,177] INFO  org.appui.utils.ElementAction 查找元素：提交按钮方式[By.id:com.tongcheng.android:id/btn_login_static_commit]
+[2017-02-24 17:02:09,970] INFO  org.appui.utils.ElementAction click元素：提交按钮[By.id:com.tongcheng.android:id/btn_login_static_commit]成功！
+[2017-02-24 17:02:09,973] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 17:02:09,973] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 17:02:09,976] INFO  org.appui.utils.TestListener 测试用例: 登录测试--passed
+[2017-02-24 17:02:09,976] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 17:02:12,505] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 17:02:12,507] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-02-24 17:32:08,098] INFO  org.appui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-24 17:32:08,105] INFO  org.appui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-02-24 17:32:08,108] INFO  org.appui.utils.ElementAction 等待10秒
+[2017-02-24 17:32:18,109] INFO  org.appui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub
+[2017-02-24 17:32:29,008] INFO  org.appui.utils.ElementAction 等待9秒
+[2017-02-24 17:32:38,642] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 17:32:44,191] INFO  org.appui.utils.ElementAction 等待5秒
+[2017-02-24 17:32:49,741] INFO  org.appui.utils.ElementAction 等待2秒
+[2017-02-24 17:32:51,744] INFO  org.appui.utils.ElementAction 查找元素：立即体验方式[By.className:android.widget.ImageView]
+[2017-02-24 17:32:52,589] INFO  org.appui.utils.ElementAction click元素：立即体验[By.className:android.widget.ImageView]成功！
+[2017-02-24 17:32:53,568] INFO  org.appui.utils.ElementAction 查找元素：关闭更新方式[By.id:com.tongcheng.android:id/imgbtn_guanbi]
+[2017-02-24 17:32:54,620] INFO  org.appui.utils.ElementAction click元素：关闭更新[By.id:com.tongcheng.android:id/imgbtn_guanbi]成功！
+[2017-02-24 17:32:54,623] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 17:32:54,628] INFO  org.appui.utils.TestListener 测试用例:登录测试---start
+[2017-02-24 17:32:54,867] INFO  org.appui.utils.Executor 读取第一列内容---：点击
+[2017-02-24 17:32:54,867] INFO  org.appui.utils.Executor 读取第二列内容---：我
+[2017-02-24 17:32:54,867] INFO  org.appui.utils.Executor 读取第三列内容---：
+[2017-02-24 17:32:54,869] ERROR org.appui.utils.TestListener 0
+[2017-02-24 17:32:55,498] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 17:32:55,500] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 17:32:55,500] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 17:32:55,503] ERROR org.appui.utils.TestListener 0
+[2017-02-24 17:32:56,339] ERROR org.appui.utils.ScreenShot 错误截图：D:\workspace\AppUi\test-output\snapshot\登录测试0.jpg
+[2017-02-24 17:32:56,341] ERROR org.appui.utils.TestListener 测试用例: 登录测试--failed
+[2017-02-24 17:32:56,341] INFO  org.appui.utils.TestListener 测试用例:登录测试---end
+[2017-02-24 17:32:58,119] INFO  org.appui.utils.TestBaseCase 关闭appium server
+[2017-02-24 17:32:58,122] INFO  org.appui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
